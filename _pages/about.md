@@ -31,7 +31,7 @@ News.
 
 \[2019-001\]. 1 paper paper was accepted by IEEE Access without revision (rank:1st, SCI-2)!
 
-Publications.
+Papers.
 ======
 
 9. Mn Zhao et al. Fast adversarial training with smooth convergence, ICCV, 2023.
