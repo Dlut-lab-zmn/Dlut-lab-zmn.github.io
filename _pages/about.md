@@ -10,7 +10,7 @@ redirect_from:
 
 I received my master degree under the supervision of Prof. [Bo Wang](http://ice.dlut.edu.cn/WangBo/index.html) in 2021. I am pursuing my Ph.D degree under the supervision of Prof. [Baocai Yin](https://baike.baidu.com/link?url=AQaKv0PleVB2mYPLEfdmbCCfTmXWneAzqostdrwVlPr0gygSBIvjBEqViZ2fyTLyvMOqF6rCnyGEx1wDeBJvbxGo5VkOGDm-FMBABqlRJP_JwbXKgXdvXRAVRWfdyP4B), Prof. [Lihe Zhang](http://faculty.dlut.edu.cn/lhzhang/zh_CN/index.htm) and Dr. [Yuqiu Kong](http://faculty.dlut.edu.cn/kongyuqiu/zh_CN/index/1081545/list/index.htm). My current research focuses on computer vision, multimedia security and machine learning, specifically on 3D instance segmentation, adversarial attack and defense, biased/unbiased scene graph generation, and knowledge graph reasoning.
 
-Contact with me on [WeChat or Phone Number](15822843520).
+If you have any questions, please contact me by email or WeChat (15822843520).
 
 News.
 ======
