@@ -27,6 +27,6 @@ News.
 
 \[2021-\]. 1 paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (rank: 2nd, 1st is my master tutor, SCI-1 Top)!
 
-\[2021-\]. 1 paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (rank: 2nd, 1st is my master tutor, SCI-1 Top)!
+\[2020-\]. 1 paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (rank: 2nd, 1st is my master tutor, SCI-1 Top)!
 
 \[2019-\]. 1 paper paper was accepted by IEEE Access without revision (rank:1st, SCI-2)!
