@@ -21,12 +21,12 @@ News.
 
 \[2023-\]. 1 paper was accepted by Neurocomputing (rank:1st, SCI-2 Top)!
 
-\[2022-\]. 1 paper was accepted by International Conference on Artificial Intelligence and Security (rank:1st, Conf)!
+\[2022-\]. 1 paper was accepted by ICAIS (rank:1st, Conf)!
 
-\[2022-\]. 1 paper was accepted by IEEE Transactions on Information Forensics and Security (rank:1st, SCI-1 Top)!
+\[2022-\]. 1 paper was accepted by IEEE TIFS (rank:1st, SCI-1 Top)!
 
-\[2021-\]. 1 paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (rank: 2nd, 1st is my master tutor, SCI-1 Top)!
+\[2021-\]. 1 paper was accepted by IEEE TCSVT (rank: 2nd, 1st is my master tutor, SCI-1 Top)!
 
-\[2020-\]. 1 paper was accepted by IEEE Transactions on Circuits and Systems for Video Technology (rank: 2nd, 1st is my master tutor, SCI-1 Top)!
+\[2020-\]. 1 paper was accepted by IEEE TCSVT (rank: 2nd, 1st is my master tutor, SCI-1 Top)!
 
 \[2019-\]. 1 paper paper was accepted by IEEE Access without revision (rank:1st, SCI-2)!
