@@ -13,20 +13,20 @@ I received my master degree under the supervision of Prof. [Bo Wang](http://ice.
 News.
 ======
 
-\[2023-\]. 1 paper was accepted by Applied Intelligence (rank:1st, SCI-2)!
+\[2023-009\]. 1 paper was accepted by Applied Intelligence (rank:1st, SCI-2)!
 
-\[2023-\]. 1 paper was accepted by Pattern Recognition (rank:1st, SCI-1 Top)!
+\[2023-008\]. 1 paper was accepted by Pattern Recognition (rank:1st, SCI-1 Top)!
 
-\[2023-\]. 1 paper was accepted by ICCV (rank:1st, Conf CCF-A)!
+\[2023-007\]. 1 paper was accepted by ICCV (rank:1st, Conf CCF-A)!
 
-\[2023-\]. 1 paper was accepted by Neurocomputing (rank:1st, SCI-2 Top)!
+\[2023-006\]. 1 paper was accepted by Neurocomputing (rank:1st, SCI-2 Top)!
 
-\[2022-\]. 1 paper was accepted by ICAIS (rank:1st, Conf)!
+\[2022-005\]. 1 paper was accepted by ICAIS (rank:1st, Conf)!
 
-\[2022-\]. 1 paper was accepted by IEEE TIFS (rank:1st, SCI-1 Top)!
+\[2022-004\]. 1 paper was accepted by IEEE TIFS (rank:1st, SCI-1 Top)!
 
-\[2021-\]. 1 paper was accepted by IEEE TCSVT (rank: 2nd, 1st is my master tutor, SCI-1 Top)!
+\[2021-003\]. 1 paper was accepted by IEEE TCSVT (rank: 2nd, 1st is my master tutor, SCI-1 Top)!
 
-\[2020-\]. 1 paper was accepted by IEEE TCSVT (rank: 2nd, 1st is my master tutor, SCI-1 Top)!
+\[2020-002\]. 1 paper was accepted by IEEE TCSVT (rank: 2nd, 1st is my master tutor, SCI-1 Top)!
 
-\[2019-\]. 1 paper paper was accepted by IEEE Access without revision (rank:1st, SCI-2)!
+\[2019-001\]. 1 paper paper was accepted by IEEE Access without revision (rank:1st, SCI-2)!
