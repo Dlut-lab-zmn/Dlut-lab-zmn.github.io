@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I received my master degree under the supervision of Prof. [Bo Wang](http://ice.dlut.edu.cn/WangBo/index.html) in 2021. I am pursuing my Ph.D degree under the supervision of Prof. [Baocai Yin](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7), Prof. [Lihe Zhang](https://scholar.google.com/citations?user=XGPdQbIAAAAJ) and Dr. [Yuqiu Kong](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN). My current research focuses on computer vision, multimedia security and machine learning, specifically on 3D instance segmentation, adversarial attack and defense, biased/unbiased scene graph generation, and knowledge graph reasoning.
+I received my master degree under the supervision of Prof. [Bo Wang](http://ice.dlut.edu.cn/WangBo/index.html) in 2021. I am pursuing my Ph.D degree under the supervision of Prof. [Baocai Yin](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7), Prof. [Lihe Zhang](https://scholar.google.com/citations?user=XGPdQbIAAAAJ) and Dr. [Yuqiu Kong](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN). My current research focuses on computer vision, multimedia security and machine learning, specifically on 3D scene understanding, adversarial attack and defense, biased/unbiased scene graph generation, and knowledge graph reasoning.
 
 If you have any questions, please contact me by email or WeChat (15822843520).
 
