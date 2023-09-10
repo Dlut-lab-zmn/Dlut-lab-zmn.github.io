@@ -15,9 +15,9 @@ If you have any questions, please contact me by email or WeChat (15822843520).
 News.
 ======
 
-\[2023-009\]. 1 paper was accepted by Applied Intelligence (rank:1st, SCI-2)!
+\[2023-009\]. 1 paper was accepted by Pattern Recognition (rank:1st, SCI-1 Top)!
 
-\[2023-008\]. 1 paper was accepted by Pattern Recognition (rank:1st, SCI-1 Top)!
+\[2023-008\]. 1 paper was accepted by Applied Intelligence (rank:1st, SCI-2)!
 
 \[2023-007\]. 1 paper was accepted by ICCV (rank:1st, Conf CCF-A)!
 
@@ -35,6 +35,9 @@ News.
 
 Papers.
 ======
+
+10. Mn Zhao et al. [Temporal Knowledge Graph Reasoning Triggered
+by Memories](https://arxiv.org/pdf/2110.08765.pdf), Applied Intelligence, 2023.
 
 9. Mn Zhao et al. [Fast adversarial training with smooth convergence](https://arxiv.org/pdf/2308.12857.pdf), ICCV, 2023.
 
