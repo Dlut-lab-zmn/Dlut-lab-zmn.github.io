@@ -15,8 +15,6 @@ If you have any questions, please contact me by email or WeChat (15822843520).
 News.
 ======
 
-\[2023-009\]. 1 paper was accepted by Pattern Recognition (rank:1st, SCI-1 Top)!
-
 \[2023-008\]. 1 paper was accepted by Applied Intelligence (rank:1st, SCI-2)!
 
 \[2023-007\]. 1 paper was accepted by ICCV (rank:1st, Conf CCF-A)!
@@ -69,3 +67,16 @@ Patents.
 2. Bo Wang, Mn Zhao. A Defense Method Based on Deceptive Attackers to Counter Samples. (Bo wang is my master tutor).
 
 1. Mn Zhao, A Targeted Adversarial Poisoning Attack Method for Shared Data Protection.
+
+
+Other papers under review.
+======
+1. Class Correlation Correction for Unbised Scene Graph Generation. Minor revision in Pattern Recognition (rank:1st, SCI-1 Top).
+
+2. Adversarial Attacks on Scene Graph Generation. Under review in IEEE TIFS (rank:1st, SCI-1 Top).
+
+3. ******************************. 3D related task, 2nd phase in AAAI (rank:1st, CCF A).
+
+4. ******************************. Adversrial attack and defence, ready for CVPR 2024, done. (rank：1st, CCF A).
+
+5. ******************************. Adversrial attack and defence, ready for CVPR 2024, working -------->. (rank：1st, CCF A).
