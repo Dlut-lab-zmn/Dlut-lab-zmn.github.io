@@ -7,24 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+👋 Hi, I’m zmn.
 I received my master degree under the supervision of Prof. [Bo Wang](http://ice.dlut.edu.cn/WangBo/index.html) in 2021. I am pursuing my Ph.D degree under the supervision of Prof. [Baocai Yin](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7), Prof. [Lihe Zhang](https://scholar.google.com/citations?user=XGPdQbIAAAAJ) and Dr. [Yuqiu Kong](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN). My current research focuses on computer vision, multimedia security and machine learning, specifically on 3D scene understanding, adversarial attack and defense, biased/unbiased scene graph generation, and knowledge graph reasoning.
 
-If you have any questions, please contact me by email or WeChat (15822843520).
+👀 If you have any questions, please contact me by email or WeChat (15822843520).
 
-News.
+💞️ News.
 ======
+- \[2023-008\]. 1 paper was accepted by Applied Intelligence (rank:1st).
+- \[2023-007\]. 1 paper was accepted by ICCV (rank:1st).
+- \[2023-006\]. 1 paper was accepted by Neurocomputing (rank:1st).
+- \[2022-005\]. 1 paper was accepted by ICAIS (rank:1st).
+- \[2022-004\]. 1 paper was accepted by IEEE TIFS (rank:1st).
+- \[2021-003\]. 1 paper was accepted by IEEE TCSVT (rank: 2nd, 1st is my master tutor).
+- \[2020-002\]. 1 paper was accepted by IEEE TCSVT (rank: 2nd, 1st is my master tutor).
+- \[2019-001\]. 1 paper was accepted by IEEE Access without revision (rank:1st).
 
-\[2023-008\]. 1 paper was accepted by Applied Intelligence (rank:1st).
-\[2023-007\]. 1 paper was accepted by ICCV (rank:1st).
-\[2023-006\]. 1 paper was accepted by Neurocomputing (rank:1st).
-\[2022-005\]. 1 paper was accepted by ICAIS (rank:1st).
-\[2022-004\]. 1 paper was accepted by IEEE TIFS (rank:1st).
-\[2021-003\]. 1 paper was accepted by IEEE TCSVT (rank: 2nd, 1st is my master tutor).
-\[2020-002\]. 1 paper was accepted by IEEE TCSVT (rank: 2nd, 1st is my master tutor).
-\[2019-001\]. 1 paper was accepted by IEEE Access without revision (rank:1st).
-
-Papers.
+📫 Papers.
 ======
 - __Zhao, M.__, Zhang, L., Kong, Y., & Yin, B. (2023). [Temporal Knowledge Graph Reasoning Triggered
 by Memories](https://arxiv.org/pdf/2110.08765.pdf). Applied Intelligence, 1-16.
@@ -38,7 +37,7 @@ by Memories](https://arxiv.org/pdf/2110.08765.pdf). Applied Intelligence, 1-16.
 - Wang, B. (__Tutor__), __Zhao, M.__, Wang, W., Dai, X., Li, Y., & Guo, Y. (2020). [Adversarial analysis for source camera identification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9306891). IEEE Transactions on Circuits and Systems for Video Technology, 31(11), 4174-4186.
 - __Zhao, M.__, Wang, B., Wei, F., Zhu, M., & Sui, X. (2019). [Source Camera Identification Based on Coupling Coding and Adaptive Filter](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8932363). IEEE Access, accept w/o revision, 8, 54431-54440.
 
-Patents.
+🌱 Patents.
 ======
 - __Zhao, M.__, Wang, B., A Point Attack Method Based on Weighted Spectrum Generation of Adversarial Samples.
 - __Zhao, M.__, Wang, B., An Image Source Identification Method Based on Adaptive Filtering and Coupled Encoding.
@@ -47,7 +46,7 @@ Patents.
 - __Zhao, M.__, Wang, B., A Targeted Adversarial Poisoning Attack Method for Shared Data Protection.
 
 
-Other papers under review.
+💞️ Other papers under review.
 ======
 - Class Correlation Correction for Unbised Scene Graph Generation. Minor revision in Pattern Recognition (rank:1st, SCI-1 Top).
 - Adversarial Attacks on Scene Graph Generation. Under review in IEEE TIFS (rank:1st, SCI-1 Top).
