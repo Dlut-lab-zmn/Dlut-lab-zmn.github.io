@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-👋 
-Mengnan, Zhao received his master degree under the supervision of Prof. [Bo Wang](http://ice.dlut.edu.cn/WangBo/index.html) in 2021. He is pursuing my Ph.D degree under the supervision of Prof. [Baocai Yin](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7), Prof. [Lihe Zhang](https://scholar.google.com/citations?user=XGPdQbIAAAAJ) and Dr. [Yuqiu Kong](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN). The current research of him focuses on computer vision, multimedia security and machine learning, specifically on 3D scene understanding, adversarial attack and defense, biased/unbiased scene graph generation, and knowledge graph reasoning.
+👀 Mengnan, Zhao received his master degree under the supervision of Prof. [Bo Wang](http://ice.dlut.edu.cn/WangBo/index.html) in 2021. He is pursuing my Ph.D degree under the supervision of Prof. [Baocai Yin](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7), Prof. [Lihe Zhang](https://scholar.google.com/citations?user=XGPdQbIAAAAJ) and Dr. [Yuqiu Kong](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN). The current research of him focuses on computer vision, multimedia security and machine learning, specifically on 3D scene understanding, adversarial attack and defense, biased/unbiased scene graph generation, and knowledge graph reasoning.
 
-👀 Hi, I’m zmn. Feel free to contact me by email or WeChat (15822843520).
+👋 Hi, I’m zmn. Feel free to contact me by email or WeChat (15822843520).
 
 💞️ News.
 ======
@@ -23,7 +22,7 @@ Mengnan, Zhao received his master degree under the supervision of Prof. [Bo Wang
 - \[2020-002\]. 1 paper was accepted by IEEE TCSVT (rank: 2nd, 1st is my master tutor).
 - \[2019-001\]. 1 paper was accepted by IEEE Access without revision (rank:1st).
 
-📫 Papers.
+📝 Papers.
 ======
 - __Zhao, M.__, Zhang, L., Kong, Y., & Yin, B. (2023). [Temporal Knowledge Graph Reasoning Triggered
 by Memories](https://arxiv.org/pdf/2110.08765.pdf). Applied Intelligence, 1-16.
@@ -49,11 +48,11 @@ by Memories](https://arxiv.org/pdf/2110.08765.pdf). Applied Intelligence, 1-16.
 ======
 Reviewer for: TNNLS, TCSVT, ECCV, TNSESI, JMLC.
 
-💻 Internships
+💻 Internships.
 ======
 Institute of Automation, Chinese Academy of Sciences under the supervision of Prof. [wei Wang](http://cripac.ia.ac.cn/people/wwang/).
 
-📝 Other papers under review.
+📝 Papers Under Review.
 ======
 - Class Correlation Correction for Unbised Scene Graph Generation. Minor revision in Pattern Recognition (rank:1st, SCI-1 Top).
 - Adversarial Attacks on Scene Graph Generation. Under review in IEEE TIFS (rank:1st, SCI-1 Top).
