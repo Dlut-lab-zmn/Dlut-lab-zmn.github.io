@@ -7,10 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-👋 Hi, I’m zmn.
-I received my master degree under the supervision of Prof. [Bo Wang](http://ice.dlut.edu.cn/WangBo/index.html) in 2021. I am pursuing my Ph.D degree under the supervision of Prof. [Baocai Yin](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7), Prof. [Lihe Zhang](https://scholar.google.com/citations?user=XGPdQbIAAAAJ) and Dr. [Yuqiu Kong](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN). My current research focuses on computer vision, multimedia security and machine learning, specifically on 3D scene understanding, adversarial attack and defense, biased/unbiased scene graph generation, and knowledge graph reasoning.
+👋 
+Mengnan, Zhao received his master degree under the supervision of Prof. [Bo Wang](http://ice.dlut.edu.cn/WangBo/index.html) in 2021. He is pursuing my Ph.D degree under the supervision of Prof. [Baocai Yin](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7), Prof. [Lihe Zhang](https://scholar.google.com/citations?user=XGPdQbIAAAAJ) and Dr. [Yuqiu Kong](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN). The current research of him focuses on computer vision, multimedia security and machine learning, specifically on 3D scene understanding, adversarial attack and defense, biased/unbiased scene graph generation, and knowledge graph reasoning.
 
-👀 If you have any questions, please contact me by email or WeChat (15822843520).
+👀 Hi, I’m zmn. Feel free to contact me by email or WeChat (15822843520).
 
 💞️ News.
 ======
@@ -49,7 +49,11 @@ by Memories](https://arxiv.org/pdf/2110.08765.pdf). Applied Intelligence, 1-16.
 ======
 Reviewer for: TNNLS, TCSVT, ECCV, TNSESI, JMLC.
 
-💞️ Other papers under review.
+💻 Internships
+======
+Institute of Automation, Chinese Academy of Sciences under the supervision of Prof. [wei Wang](http://cripac.ia.ac.cn/people/wwang/).
+
+📝 Other papers under review.
 ======
 - Class Correlation Correction for Unbised Scene Graph Generation. Minor revision in Pattern Recognition (rank:1st, SCI-1 Top).
 - Adversarial Attacks on Scene Graph Generation. Under review in IEEE TIFS (rank:1st, SCI-1 Top).
