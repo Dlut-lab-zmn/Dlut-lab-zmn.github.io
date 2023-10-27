@@ -55,7 +55,6 @@ Institute of Automation, Chinese Academy of Sciences under the supervision of Pr
 📝 Papers Under Review.
 ======
 - Class Correlation Correction for Unbised Scene Graph Generation. Minor revision in Pattern Recognition (rank:1st, SCI-1 Top).
-- Adversarial Attacks on Scene Graph Generation. Under review in IEEE TIFS (rank:1st, SCI-1 Top).
+- Adversarial Attacks on Scene Graph Generation. Major revision in IEEE TIFS (rank:1st, SCI-1 Top).
 - ******************************. 3D related task, 2nd phase in AAAI (rank:1st, CCF A).
 - ******************************. Adversrial attack and defence, ready for CVPR 2024, done. (rank：1st, CCF A).
-- ******************************. Adversrial attack and defence, ready for CVPR 2024, working -------->. (rank：1st, CCF A).
