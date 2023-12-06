@@ -46,7 +46,7 @@ by Memories](https://arxiv.org/pdf/2110.08765.pdf). Applied Intelligence, 1-16.
 
 🌱 Professional Service.
 ======
-Reviewer for: TNNLS, TCSVT, ECCV, TNSESI, JMLC.
+Reviewer for: TNNLS, TCSVT, ECCV, TNSESI, JKSUCIS, JMLC.
 
 💻 Internships.
 ======
