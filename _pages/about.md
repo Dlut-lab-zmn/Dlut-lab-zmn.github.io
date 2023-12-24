@@ -1,5 +1,5 @@
 ---
-permalink: https://Mengnan_Zhao/
+permalink: /
 title: "Biography"
 excerpt: "About me"
 author_profile: true
