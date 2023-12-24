@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: [Personal Link](https://github.com/Dlut-lab-zmn/)
 title: "Biography"
 excerpt: "About me"
 author_profile: true
