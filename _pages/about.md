@@ -1,5 +1,5 @@
 ---
-permalink: [Personal Link](https://github.com/Dlut-lab-zmn/)
+permalink: https://Mengnan_Zhao/
 title: "Biography"
 excerpt: "About me"
 author_profile: true
