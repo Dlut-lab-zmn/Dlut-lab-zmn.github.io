@@ -13,15 +13,15 @@ redirect_from:
 
 💞️ News.
 ======
-- \[2023-012\]. 1 paper was accepted by Pattern Recognition (rank:1st, SCI-1 Top).
-- \[2023-008\]. 1 paper was accepted by Applied Intelligence (rank:1st, SCI-2).
-- \[2023-007\]. 1 paper was accepted by ICCV (rank:1st, CCF-A).
-- \[2023-006\]. 1 paper was accepted by Neurocomputing (rank:1st, SCI-2 Top).
-- \[2022-005\]. 1 paper was accepted by ICAIS (rank:1st).
-- \[2022-004\]. 1 paper was accepted by TIFS (rank:1st, SCI 1 Top).
-- \[2021-003\]. 1 paper was accepted by TCSVT (rank: 2nd, 1st is my master tutor, SCI-1 Top).
-- \[2020-002\]. 1 paper was accepted by TCSVT (rank: 2nd, 1st is my master tutor, SCI-1 Top).
-- \[2019-001\]. 1 paper was accepted by Access w/o revision (rank:1st, Before Warning).
+- \[2023-012\]. 1 paper was accepted by Pattern Recognition (Rank:1st, SCI-1 Top).
+- \[2023-008\]. 1 paper was accepted by Applied Intelligence (Rank:1st, SCI-2).
+- \[2023-007\]. 1 paper was accepted by ICCV (Rank:1st, CCF-A).
+- \[2023-006\]. 1 paper was accepted by Neurocomputing (Rank:1st, SCI-2 Top).
+- \[2022-005\]. 1 paper was accepted by ICAIS (Rank:1st).
+- \[2022-004\]. 1 paper was accepted by TIFS (Rank:1st, SCI 1 Top).
+- \[2021-003\]. 1 paper was accepted by TCSVT (Rank: 2nd, 1st is my master tutor, SCI-1 Top).
+- \[2020-002\]. 1 paper was accepted by TCSVT (Rank: 2nd, 1st is my master tutor, SCI-1 Top).
+- \[2019-001\]. 1 paper was accepted by Access w/o revision (Rank:1st, Before Warning).
 
 📝 Papers.
 ======
