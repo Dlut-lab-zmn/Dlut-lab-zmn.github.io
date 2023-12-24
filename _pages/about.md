@@ -9,7 +9,7 @@ redirect_from:
 ---
 👀 Mengnan, Zhao received his master degree under the supervision of Prof. [Bo Wang](http://ice.dlut.edu.cn/WangBo/index.html) in 2021. He is pursuing his Ph.D degree under the supervision of Prof. [Baocai Yin](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7), Prof. [Lihe Zhang](https://scholar.google.com/citations?user=XGPdQbIAAAAJ) and Dr. [Yuqiu Kong](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN). The current research of him focuses on computer vision and multimedia security, specifically on 3D scene understanding, adversarial attack and defense, biased/unbiased scene graph generation, and knowledge graph reasoning.
 
-👋 Hi, I’m zmn. Feel free to contact me by [email](dlutzmn@mail.dlut.edu.cn) or [WeChat](15822843520).
+👋 Hi, I’m zmn. Feel free to contact me by [Email](dlutzmn@mail.dlut.edu.cn) or [WeChat](15822843520).
 
 💞️ News.
 ======
