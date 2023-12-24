@@ -13,17 +13,19 @@ redirect_from:
 
 💞️ News.
 ======
-- \[2023-008\]. 1 paper was accepted by Applied Intelligence (rank:1st).
-- \[2023-007\]. 1 paper was accepted by ICCV (rank:1st).
-- \[2023-006\]. 1 paper was accepted by Neurocomputing (rank:1st).
+- \[2023-012\]. 1 paper was accepted by Pattern Recognition (rank:1st, SCI-1 Top).
+- \[2023-008\]. 1 paper was accepted by Applied Intelligence (rank:1st, SCI-2).
+- \[2023-007\]. 1 paper was accepted by ICCV (rank:1st, CCF-A).
+- \[2023-006\]. 1 paper was accepted by Neurocomputing (rank:1st, SCI-2 Top).
 - \[2022-005\]. 1 paper was accepted by ICAIS (rank:1st).
-- \[2022-004\]. 1 paper was accepted by IEEE TIFS (rank:1st).
-- \[2021-003\]. 1 paper was accepted by IEEE TCSVT (rank: 2nd, 1st is my master tutor).
-- \[2020-002\]. 1 paper was accepted by IEEE TCSVT (rank: 2nd, 1st is my master tutor).
-- \[2019-001\]. 1 paper was accepted by IEEE Access without revision (rank:1st).
+- \[2022-004\]. 1 paper was accepted by TIFS (rank:1st, SCI 1 Top).
+- \[2021-003\]. 1 paper was accepted by TCSVT (rank: 2nd, 1st is my master tutor, SCI-1 Top).
+- \[2020-002\]. 1 paper was accepted by TCSVT (rank: 2nd, 1st is my master tutor, SCI-1 Top).
+- \[2019-001\]. 1 paper was accepted by Access w/o revision (rank:1st, Before Warning).
 
 📝 Papers.
 ======
+- __Zhao, M.__, Zhang, L., Kong, Y., & Yin, B. (2023). Class Correlation Correction for Unbised Scene Graph Generation. Pattern Recognition, 1-16.
 - __Zhao, M.__, Zhang, L., Kong, Y., & Yin, B. (2023). [Temporal Knowledge Graph Reasoning Triggered
 by Memories](https://arxiv.org/pdf/2110.08765.pdf). Applied Intelligence, 1-16.
 - __Zhao, M.__, Zhang, L., Kong, Y., & Yin, B. (2023). [Fast adversarial training with smooth convergence](https://arxiv.org/pdf/2308.12857.pdf). In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 4720-4729).
@@ -54,7 +56,6 @@ Institute of Automation, Chinese Academy of Sciences under the supervision of Pr
 
 📝 Papers Under Review.
 ======
-- Class Correlation Correction for Unbised Scene Graph Generation. Minor revision in Pattern Recognition (rank:1st, SCI-1 Top).
 - Adversarial Attacks on Scene Graph Generation. Major revision in IEEE TIFS (rank:1st, SCI-1 Top).
-- ******************************. 3D related task, 2nd phase in AAAI (rank:1st, CCF A).
-- ******************************. Adversrial attack and defence, ready for CVPR 2024, done. (rank：1st, CCF A).
+- [EipFormer: Emphasizing Instance Positions in 3D Instance Segmentation](https://arxiv.org/pdf/2312.05602.pdf), submitted to TIP (rank:1st, SCI-1 Top).
+- ******************************. Adversrial attack and defence, submitted to CVPR. (rank：1st, CCF A).
