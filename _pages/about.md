@@ -49,13 +49,13 @@ by Memories](https://arxiv.org/pdf/2110.08765.pdf). Applied Intelligence, 1-16.
 🌱 Professional Service.
 ======
 Reviewer for: 
-- [IEEE Transactions on Neural Networks and Learning Systems](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=8837)
-- [IEEE Transactions on Multimedia](https://www.letpub.com.cn/index.php?journalid=3404&page=journalapp&view=detail)
-- [IEEE Transactions on Circuits and Systems for Video Technology](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3369)
-- [European Conference on Computer Vision]()
-- [IEEE Transactions on Network Science and Engineering](https://www.letpub.com.cn/index.php?journalid=10891&page=journalapp&view=detail)
-- [Journal of King Saud University-Computer and Information Sciences](https://www.letpub.com.cn/index.php?journalid=11137&page=journalapp&view=detail)
-- [International Journal of Machine Learning and Cybernetics](https://www.letpub.com.cn/index.php?journalid=10028&page=journalapp&view=detail).
+- [IEEE Transactions on Neural Networks and Learning Systems, SCI1-Top](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=8837)
+- [IEEE Transactions on Multimedia, SCI1-Top](https://www.letpub.com.cn/index.php?journalid=3404&page=journalapp&view=detail)
+- [IEEE Transactions on Circuits and Systems for Video Technology, SCI1-Top](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3369)
+- [European Conference on Computer Vision, CCF-A]()
+- [IEEE Transactions on Network Science and Engineering, SCI1 Top & SCI2](https://www.letpub.com.cn/index.php?journalid=10891&page=journalapp&view=detail)
+- [Journal of King Saud University-Computer and Information Sciences SCI1 Top](https://www.letpub.com.cn/index.php?journalid=11137&page=journalapp&view=detail)
+- [International Journal of Machine Learning and Cybernetics, SCI 3](https://www.letpub.com.cn/index.php?journalid=10028&page=journalapp&view=detail).
 
 💻 Internships.
 ======
