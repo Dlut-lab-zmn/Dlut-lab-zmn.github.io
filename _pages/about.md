@@ -48,7 +48,7 @@ by Memories](https://arxiv.org/pdf/2110.08765.pdf). Applied Intelligence, 1-16.
 
 🌱 Professional Service.
 ======
-Reviewer for: [TNNLS](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=8837), [TCSVT](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3369), [ECCV](), [TNSESI](https://www.letpub.com.cn/index.php?journalid=10891&page=journalapp&view=detail), [JKSUCIS](https://www.letpub.com.cn/index.php?journalid=11137&page=journalapp&view=detail), [JMLC](https://www.letpub.com.cn/index.php?journalid=10028&page=journalapp&view=detail).
+Reviewer for: [TNNLS](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=8837), [TMM](https://www.letpub.com.cn/index.php?journalid=3404&page=journalapp&view=detail) [TCSVT](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3369), [ECCV](), [TNSESI](https://www.letpub.com.cn/index.php?journalid=10891&page=journalapp&view=detail), [JKSUCIS](https://www.letpub.com.cn/index.php?journalid=11137&page=journalapp&view=detail), [JMLC](https://www.letpub.com.cn/index.php?journalid=10028&page=journalapp&view=detail).
 
 💻 Internships.
 ======
