@@ -86,7 +86,7 @@ author:
   location         : "Dalian"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=x2tzLL4AAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=x2tzLL4AAAAJ"
   email            : "dlutzmn@mail.dlut.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
