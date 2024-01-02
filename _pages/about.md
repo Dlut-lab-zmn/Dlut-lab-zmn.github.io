@@ -23,7 +23,7 @@ redirect_from:
 - \[20-02\]. 1 paper was accepted by TCSVT (Rank: 2nd, 1st is my master tutor, SCI-1 Top).
 - \[19-01\]. 1 paper was accepted by Access w/o revision (Rank:1st, Before Warning).
 
-📝 1^{st} Author Papers.
+📝 1st Author Papers.
 ======
 - __Zhao, M.__, Zhang, L., Kong, Y., & Yin, B. (2023). [Class Correlation Correction for Unbised Scene Graph Generation](https://www.sciencedirect.com/science/article/abs/pii/S0031320323009184). Pattern Recognition, 1-16.
 - __Zhao, M.__, Zhang, L., Kong, Y., & Yin, B. (2023). [Temporal Knowledge Graph Reasoning Triggered
