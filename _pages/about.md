@@ -13,18 +13,20 @@ redirect_from:
 
 💞️ News.
 ======
-- \[23-09\]. 1 paper was accepted by Pattern Recognition (Rank:1st, SCI-1 Top).
-- \[23-08\]. 1 paper was accepted by Applied Intelligence (Rank:1st, SCI-2).
+- \[24-10\]. 1 paper was accepted by IEEE TIFS (Rank:1st, SCI-1 Top, CCF-A).
+- \[23-09\]. 1 paper was accepted by Pattern Recognition (Rank:1st, SCI-1 Top, CCF-B, CAA-A).
+- \[23-08\]. 1 paper was accepted by Applied Intelligence (Rank:1st, SCI-2, CCF-C).
 - \[23-07\]. 1 paper was accepted by ICCV (Rank:1st, CCF-A).
-- \[23-06\]. 1 paper was accepted by Neurocomputing (Rank:1st, SCI-2 Top).
+- \[23-06\]. 1 paper was accepted by Neurocomputing (Rank:1st, SCI-2 Top, CCF-C, CAA-A).
 - \[22-05\]. 1 paper was accepted by ICAIS (Rank:1st).
-- \[22-04\]. 1 paper was accepted by TIFS (Rank:1st, SCI 1 Top).
-- \[21-03\]. 1 paper was accepted by TCSVT (Rank: 2nd, 1st is my master tutor, SCI-1 Top).
-- \[20-02\]. 1 paper was accepted by TCSVT (Rank: 2nd, 1st is my master tutor, SCI-1 Top).
-- \[19-01\]. 1 paper was accepted by Access w/o revision (Rank:1st, Before Warning).
+- \[22-04\]. 1 paper was accepted by IEEE TIFS (Rank:1st, SCI 1 Top, CCF-A, CAA-A).
+- \[21-03\]. 1 paper was accepted by IEEE TCSVT (Rank: 2nd, 1st is my master tutor, SCI-1 Top, CCF-B, CAA-A).
+- \[20-02\]. 1 paper was accepted by IEEE TCSVT (Rank: 2nd, 1st is my master tutor, SCI-1 Top, CCF-B, CAA-A).
+- \[19-01\]. 1 paper was accepted by IEEE Access w/o revision (Rank:1st, Before Warning).
 
 📝 1st Author Papers.
 ======
+- __Zhao, M.__, Zhang, L., Wang, W., Kong, Y., & Yin, B. (2024). [Adversarial Attacks on Scene Graph Generation](). IEEE Transactions on Information Forensics and Security.
 - __Zhao, M.__, Zhang, L., Kong, Y., & Yin, B. (2023). [Class Correlation Correction for Unbised Scene Graph Generation](https://www.sciencedirect.com/science/article/abs/pii/S0031320323009184). Pattern Recognition, 1-16.
 - __Zhao, M.__, Zhang, L., Kong, Y., & Yin, B. (2023). [Temporal Knowledge Graph Reasoning Triggered
 by Memories](https://arxiv.org/pdf/2110.08765.pdf). Applied Intelligence, 1-16.
@@ -61,6 +63,5 @@ Institute of Automation, Chinese Academy of Sciences under the supervision of Pr
 
 📝 Papers Under Review.
 ======
-- Adversarial Attacks on Scene Graph Generation. Major revision in IEEE TIFS (rank:1st, SCI-1 Top).
 - [EipFormer: Emphasizing Instance Positions in 3D Instance Segmentation](https://arxiv.org/pdf/2312.05602.pdf), submitted to TIP (rank:1st, SCI-1 Top).
 - ******************************. Adversrial attack and defence, submitted to CVPR. (rank：1st, CCF A).
