@@ -65,3 +65,4 @@ Institute of Automation, Chinese Academy of Sciences under the supervision of Pr
 ======
 - [EipFormer: Emphasizing Instance Positions in 3D Instance Segmentation](https://arxiv.org/pdf/2312.05602.pdf), submitted to TIP (rank:1st, SCI-1 Top).
 - ******************************. Adversrial attack and defence, submitted to CVPR. (rank：1st, CCF A).
+- ******************************. Diffusion model unlearning, submitted to ICML. (rank：1st, CCF A).
