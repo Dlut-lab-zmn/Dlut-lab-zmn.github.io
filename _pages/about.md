@@ -13,7 +13,7 @@ redirect_from:
 
 💞️ News.
 ======
-- \[24-10\]. 1 paper was accepted by IEEE TIFS (Rank:1st, SCI-1 Top, CCF-A).
+- \[24-10\]. 1 paper was accepted by IEEE TIFS (Rank:1st, SCI-1 Top, CCF-A, CAA-A).
 - \[23-09\]. 1 paper was accepted by Pattern Recognition (Rank:1st, SCI-1 Top, CCF-B, CAA-A).
 - \[23-08\]. 1 paper was accepted by Applied Intelligence (Rank:1st, SCI-2, CCF-C).
 - \[23-07\]. 1 paper was accepted by ICCV (Rank:1st, CCF-A).
