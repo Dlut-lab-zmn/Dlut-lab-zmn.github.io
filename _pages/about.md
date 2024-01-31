@@ -22,7 +22,7 @@ redirect_from:
 - \[22-04\]. 1 paper is accepted by IEEE TIFS (SCI 1 Top, CCF-A, CAA-A).
 - \[21-03\]. 1 paper is accepted by IEEE TCSVT (SCI-1 Top, CCF-B, CAA-A).
 - \[20-02\]. 1 paper is accepted by IEEE TCSVT (SCI-1 Top, CCF-B, CAA-A).
-- \[19-01\]. 1 paper is accepted by IEEE Access w/o revision (Before Warning).
+- \[Dec 2019\]. 1 paper is accepted by IEEE Access w/o revision (Before Warning).
 
 📝 1st Author Papers.
 ======
