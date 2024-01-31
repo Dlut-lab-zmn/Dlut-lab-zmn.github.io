@@ -13,16 +13,16 @@ redirect_from:
 
 💞️ News.
 ======
-- \[24-10\]. 1 paper was accepted by IEEE TIFS (1st, SCI-1 Top, CCF-A, CAA-A).
-- \[23-09\]. 1 paper was accepted by Pattern Recognition (1st, SCI-1 Top, CCF-B, CAA-A).
-- \[23-08\]. 1 paper was accepted by Applied Intelligence (1st, SCI-2, CCF-C).
-- \[23-07\]. 1 paper was accepted by ICCV (1st, CCF-A).
-- \[23-06\]. 1 paper was accepted by Neurocomputing (1st, SCI-2 Top, CCF-C, CAA-A).
-- \[22-05\]. 1 paper was accepted by ICAIS (1st).
-- \[22-04\]. 1 paper was accepted by IEEE TIFS (1st, SCI 1 Top, CCF-A, CAA-A).
-- \[21-03\]. 1 paper was accepted by IEEE TCSVT (2nd, 1st is my tutor, SCI-1 Top, CCF-B, CAA-A).
-- \[20-02\]. 1 paper was accepted by IEEE TCSVT (2nd, 1st is my tutor, SCI-1 Top, CCF-B, CAA-A).
-- \[19-01\]. 1 paper was accepted by IEEE Access w/o revision (1st, Before Warning).
+- \[24-10\]. 1 paper is accepted by IEEE TIFS (SCI-1 Top, CCF-A, CAA-A).
+- \[23-09\]. 1 paper is accepted by Pattern Recognition (SCI-1 Top, CCF-B, CAA-A).
+- \[23-08\]. 1 paper is accepted by Applied Intelligence (SCI-2, CCF-C).
+- \[23-07\]. 1 paper is accepted by ICCV (CCF-A).
+- \[23-06\]. 1 paper is accepted by Neurocomputing (SCI-2 Top, CCF-C, CAA-A).
+- \[22-05\]. 1 paper is accepted by ICAIS.
+- \[22-04\]. 1 paper is accepted by IEEE TIFS (SCI 1 Top, CCF-A, CAA-A).
+- \[21-03\]. 1 paper is accepted by IEEE TCSVT (SCI-1 Top, CCF-B, CAA-A).
+- \[20-02\]. 1 paper is accepted by IEEE TCSVT (SCI-1 Top, CCF-B, CAA-A).
+- \[19-01\]. 1 paper is accepted by IEEE Access w/o revision (Before Warning).
 
 📝 1st Author Papers.
 ======
