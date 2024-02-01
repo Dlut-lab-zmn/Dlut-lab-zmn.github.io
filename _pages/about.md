@@ -53,7 +53,7 @@ Reviewer for:
 - [IEEE Transactions on Multimedia, SCI1-Top](https://www.letpub.com.cn/index.php?journalid=3404&page=journalapp&view=detail)
 - [IEEE Transactions on Circuits and Systems for Video Technology, SCI1-Top](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3369)
 - [European Conference on Computer Vision, CV Top-conf]()
-- [IEEE Transactions on Network Science and Engineering, SCI1 Top & SCI2](https://www.letpub.com.cn/index.php?journalid=10891&page=journalapp&view=detail)
+- [IEEE Transactions on Network Science and Engineering, SCI1 & SCI2](https://www.letpub.com.cn/index.php?journalid=10891&page=journalapp&view=detail)
 - [Journal of King Saud University-Computer and Information Sciences SCI2](https://www.letpub.com.cn/index.php?journalid=11137&page=journalapp&view=detail)
 - [International Journal of Machine Learning and Cybernetics, SCI3](https://www.letpub.com.cn/index.php?journalid=10028&page=journalapp&view=detail).
 
