@@ -22,7 +22,7 @@ redirect_from:
 - \[Jun 2022\] 1 paper is accepted by IEEE TIFS (SCI 1 Top, CCF-A, CAA-A).
 - \[Dec 2020\] 1 paper is accepted by IEEE TCSVT (SCI-1 Top, CCF-B, CAA-A).
 - \[Aug 2020\] 1 paper is accepted by IEEE TCSVT (SCI-1 Top, CCF-B, CAA-A).
-- \[Dec 2019\] 1 paper is accepted by IEEE Access w/o revision (Before Warning).
+- \[Dec 2019\] 1 paper is accepted by IEEE Access (Direct Accept. Before Warning).
 
 📝 1st Author Papers.
 ======
@@ -36,7 +36,7 @@ by Memories](https://arxiv.org/pdf/2110.08765.pdf). Applied Intelligence, 1-16.
 - __Zhao, M.__, Wang, B., Wang, W., Kong, Y., Zheng, T., & Ren, K. (2022). [Guided erasable adversarial attack (GEAA) toward shared data protection](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9808181). IEEE Transactions on Information Forensics and Security, 17, 2468-2482.
 - Wang, B. (__Tutor__), __Zhao, M.__, Wang, W., Dai, X., Li, Y., & Guo, Y. (2020). [Adversarial analysis for source camera identification](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9306891). IEEE Transactions on Circuits and Systems for Video Technology, 31(11), 4174-4186.
 - Wang, B. (__Tutor__), __Zhao, M.__, Wang, W., Wei, F., Qin, Z., & Ren, K. (2020). [Are You Confident That You Have Successfully Generated Adversarial Examples](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9169672). IEEE Transactions on Circuits and Systems for Video Technology, 31(6), 2089-2099.
-- __Zhao, M.__, Wang, B., Wei, F., Zhu, M., & Sui, X. (2019). [Source Camera Identification Based on Coupling Coding and Adaptive Filter](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8932363). IEEE Access, accept w/o revision, 8, 54431-54440.
+- __Zhao, M.__, Wang, B., Wei, F., Zhu, M., & Sui, X. (2019). [Source Camera Identification Based on Coupling Coding and Adaptive Filter](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8932363). IEEE Access, direct accept, 8, 54431-54440.
 
 📫 Patents.
 ======
