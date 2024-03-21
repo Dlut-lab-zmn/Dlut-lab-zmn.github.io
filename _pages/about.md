@@ -26,8 +26,12 @@ redirect_from:
 
 📝 1st Author Papers.
 ======
-- __Zhao, M.__, Zhang, L., Wang, W., Kong, Y., & Yin, B. (2024). [Adversarial Attacks on Scene Graph Generation](https://ieeexplore.ieee.org/document/10417771). IEEE Transactions on Information Forensics and Security.
-- __Zhao, M.__, Zhang, L., Kong, Y., & Yin, B. (2023). [Class Correlation Correction for Unbised Scene Graph Generation](https://www.sciencedirect.com/science/article/abs/pii/S0031320323009184). Pattern Recognition, 1-16.
+- Adversarial Attacks on Scene Graph Generation [\[link\]](https://ieeexplore.ieee.org/document/10417771) [\[code\]](https://github.com/Dlut-lab-zmn/SGG_Attack).  
+  __Zhao, M.__, Zhang, L., Wang, W., Kong, Y., & Yin, B. (2024).  
+  IEEE Transactions on Information Forensics and Security.
+- Class Correlation Correction for Unbised Scene Graph Generation [\[link\]](https://www.sciencedirect.com/science/article/abs/pii/S0031320323009184) [\[code\]](https://github.com/Dlutlab-zmn/class-correlation-correction).  
+__Zhao, M.__, Zhang, L., Kong, Y., & Yin, B. (2023).  
+Pattern Recognition, 1-16.  
 - __Zhao, M.__, Zhang, L., Kong, Y., & Yin, B. (2023). [Temporal Knowledge Graph Reasoning Triggered
 by Memories](https://arxiv.org/pdf/2110.08765.pdf). Applied Intelligence, 1-16.
 - __Zhao, M.__, Zhang, L., Kong, Y., & Yin, B. (2023). [Fast adversarial training with smooth convergence](https://arxiv.org/pdf/2308.12857.pdf). In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 4720-4729).
