@@ -61,14 +61,19 @@ IEEE Access, Direct accept, 8, 54431-54440.
 📫 Patents.
 ======
 - A Reasonable Adversarial Analysis Method for Source Camera Recognition Based on Deep Learning [\[link\]](https://www.xjishu.com/zhuanli/55/202011283607.html).  
+CN112381149A  
 __Mengnan Zhao__, Bo Wang
 - An Image Source Identification Method Based on Adaptive Filtering and Coupled Encoding [\[link\]](https://xueshu.baidu.com/usercenter/paper/show?paperid=1p1q0050yk1c0cg06m4x0jp0p6065601&site=xueshu_se).  
+ZL201910871685.X; CN110659679  
 __Mengnan Zhao__, Bo Wang  
 - A Point Attack Method Based on Weighted Spectrum Generation of Adversarial Samples [\[link\]](https://xueshu.baidu.com/usercenter/paper/show?paperid=160n02v00u1q0mb0nd3j00c00u459303&site=xueshu_se).  
+ZL201911050075.X; CN110866287B  
 __Mengnan Zhao__, Bo Wang
 - A Defense Method Based on Deceptive Attackers to Counter Samples [\[link\]](https://xueshu.baidu.com/usercenter/paper/show?paperid=1u0u0ry0wu3308400t520eu0kw090862&site=xueshu_se).  
+ZL201911050099.5; CN110852363B  
 Bo Wang (Ms. Tutor), __Mengnan Zhao__
-- A Targeted Adversarial Poisoning Attack Method for Shared Data Protection [\[link\]]()  
+- A Targeted Adversarial Poisoning Attack Method for Shared Data Protection [\[link\]](https://xueshu.baidu.com/usercenter/paper/show?paperid=133g0ja0h63s0jn0uv2h0vp0qx368771&site=xueshu_se)  
+CN113821770A  
 __Mengnan Zhao__, Bo Wang
 
 🌱 Professional Service.
