@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-👀 Mengnan, Zhao received his [master degree](https://kns.cnki.net/kcms2/article/abstract?v=xBNwvqFr00I758DBo6k1ZC7bbx_n_5AOYMy08Iw2bIixchabLWSl2bsw716sGJJyiSNre1iPlmE-kwxg_QF2jZZ2ft22y6XOEjQexNbLVwcBspTizTRTUSl4MNwMA-hOhB1UJ6nKIyLGw03ZhVGu0w==&uniplatform=NZKPT&language=CHS) under the supervision of Prof. [Bo Wang](http://www.aisdut.cn/WangBo/publications.html) in 2021. He is pursuing his Ph.D degree under the supervision of Prof. [Baocai Yin](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7), Prof. [Lihe Zhang](https://scholar.google.com/citations?user=XGPdQbIAAAAJ) and Dr. [Yuqiu Kong](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN). The current research of him focuses on AI security and computer vision, specifically on adversarial attack and defense, biased/unbiased scene graph generation, 3D scene understanding, and knowledge graph reasoning.
+👀 Mengnan, Zhao received his [Ms. degree](https://kns.cnki.net/kcms2/article/abstract?v=xBNwvqFr00I758DBo6k1ZC7bbx_n_5AOYMy08Iw2bIixchabLWSl2bsw716sGJJyiSNre1iPlmE-kwxg_QF2jZZ2ft22y6XOEjQexNbLVwcBspTizTRTUSl4MNwMA-hOhB1UJ6nKIyLGw03ZhVGu0w==&uniplatform=NZKPT&language=CHS) under the supervision of Prof. [Bo Wang](http://www.aisdut.cn/WangBo/publications.html) in 2021. He is pursuing his Ph.D degree under the supervision of Prof. [Baocai Yin](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7), Prof. [Lihe Zhang](https://scholar.google.com/citations?user=XGPdQbIAAAAJ) and Dr. [Yuqiu Kong](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN). The current research of him focuses on AI security and computer vision, specifically on adversarial attack and defense, biased/unbiased scene graph generation, 3D scene understanding, and knowledge graph reasoning.
 
 👋 Hi, I’m zmn. Feel free to contact me by Email or WeChat(15822843520).
 
@@ -60,22 +60,27 @@ IEEE Access, Direct accept, 8, 54431-54440.
 
 📫 Patents.
 ======
-- __Zhao, M.__, Wang, B., [A Point Attack Method Based on Weighted Spectrum Generation of Adversarial Samples](https://xueshu.baidu.com/usercenter/paper/show?paperid=160n02v00u1q0mb0nd3j00c00u459303&site=xueshu_se).
-- __Zhao, M.__, Wang, B., [An Image Source Identification Method Based on Adaptive Filtering and Coupled Encoding](https://xueshu.baidu.com/usercenter/paper/show?paperid=1p1q0050yk1c0cg06m4x0jp0p6065601&site=xueshu_se).
-- __Zhao, M.__, Wang, B., [A Reasonable Adversarial Analysis Method for Source Camera Recognition Based on Deep Learning](https://www.xjishu.com/zhuanli/55/202011283607.html).
-- Wang, B.(__Tutor__), __Zhao, M.__, [A Defense Method Based on Deceptive Attackers to Counter Samples](https://xueshu.baidu.com/usercenter/paper/show?paperid=1u0u0ry0wu3308400t520eu0kw090862&site=xueshu_se).
-- __Zhao, M.__, Wang, B., [A Targeted Adversarial Poisoning Attack Method for Shared Data Protection]().
+- A Reasonable Adversarial Analysis Method for Source Camera Recognition Based on Deep Learning [\[link\]](https://www.xjishu.com/zhuanli/55/202011283607.html).  
+__Mengnan Zhao__, Bo Wang
+- An Image Source Identification Method Based on Adaptive Filtering and Coupled Encoding [\[link\]](https://xueshu.baidu.com/usercenter/paper/show?paperid=1p1q0050yk1c0cg06m4x0jp0p6065601&site=xueshu_se).  
+__Mengnan Zhao__, Bo Wang  
+- A Point Attack Method Based on Weighted Spectrum Generation of Adversarial Samples [\[link\]](https://xueshu.baidu.com/usercenter/paper/show?paperid=160n02v00u1q0mb0nd3j00c00u459303&site=xueshu_se).  
+__Mengnan Zhao__, Bo Wang
+- A Defense Method Based on Deceptive Attackers to Counter Samples [\[link\]](https://xueshu.baidu.com/usercenter/paper/show?paperid=1u0u0ry0wu3308400t520eu0kw090862&site=xueshu_se).  
+Bo Wang (Ms. Tutor), __Mengnan Zhao__
+- A Targeted Adversarial Poisoning Attack Method for Shared Data Protection [\[link\]]()  
+__Mengnan Zhao__, Bo Wang
 
 🌱 Professional Service.
 ======
 Reviewer for: 
-- [IEEE Transactions on Neural Networks and Learning Systems, SCI1-Top](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=8837)
-- [IEEE Transactions on Multimedia, SCI1-Top](https://www.letpub.com.cn/index.php?journalid=3404&page=journalapp&view=detail)
-- [IEEE Transactions on Circuits and Systems for Video Technology, SCI1-Top](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3369)
-- [European Conference on Computer Vision, CV Top-conf]()
-- [IEEE Transactions on Network Science and Engineering, SCI1 & SCI2](https://www.letpub.com.cn/index.php?journalid=10891&page=journalapp&view=detail)
-- [Journal of King Saud University-Computer and Information Sciences SCI2](https://www.letpub.com.cn/index.php?journalid=11137&page=journalapp&view=detail)
-- [International Journal of Machine Learning and Cybernetics, SCI3](https://www.letpub.com.cn/index.php?journalid=10028&page=journalapp&view=detail).
+- IEEE Transactions on Neural Networks and Learning Systems, SCI1-Top [\[link\]](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=8837)
+- IEEE Transactions on Multimedia, SCI1-Top [\[link\]](https://www.letpub.com.cn/index.php?journalid=3404&page=journalapp&view=detail)
+- IEEE Transactions on Circuits and Systems for Video Technology, SCI1-Top [\[link\]](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3369)
+- European Conference on Computer Vision, CV Top-conf [\[link\]]()
+- IEEE Transactions on Network Science and Engineering, SCI1 & SCI2 [\[link\]](https://www.letpub.com.cn/index.php?journalid=10891&page=journalapp&view=detail)
+- Journal of King Saud University-Computer and Information Sciences SCI2 [\[link\]](https://www.letpub.com.cn/index.php?journalid=11137&page=journalapp&view=detail)
+- International Journal of Machine Learning and Cybernetics, SCI3 [\[link\]](https://www.letpub.com.cn/index.php?journalid=10028&page=journalapp&view=detail).
 
 💻 Internships.
 ======
