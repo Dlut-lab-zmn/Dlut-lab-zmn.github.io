@@ -13,15 +13,16 @@ redirect_from:
 
 💞️ News.
 ======
-- \[Jan 2024\] 1 paper is accepted by IEEE TIFS (SCI-1 Top, CCF-A, CAA-A).
-- \[Dec 2023\] 1 paper is accepted by Pattern Recognition (SCI-1 Top, CCF-B, CAA-A).
-- \[Oct 2023\] 1 paper is accepted by Applied Intelligence (SCI-2, CCF-C).
-- \[Oct 2023\] 1 paper is accepted by ICCV (CCF-A).
-- \[Sep 2023\] 1 paper is accepted by Neurocomputing (SCI-2 Top, CCF-C, CAA-A).
+__CCFA__: TIFS, ICCV; __TRANS__: TIFS, TCSVT; __SCI 1 TOP__: TIFS, TCSVT, PR
+- \[Jan 2024\] 1 paper is accepted by IEEE TIFS.
+- \[Dec 2023\] 1 paper is accepted by PR.
+- \[Oct 2023\] 1 paper is accepted by Applied Intelligence.
+- \[Oct 2023\] 1 paper is accepted by ICCV.
+- \[Sep 2023\] 1 paper is accepted by Neurocomputing.
 - \[Jul 2022\] 1 paper is accepted by ICAIS.
-- \[Jun 2022\] 1 paper is accepted by IEEE TIFS (SCI 1 Top, CCF-A, CAA-A).
-- \[Dec 2020\] 1 paper is accepted by IEEE TCSVT (SCI-1 Top, CCF-B, CAA-A).
-- \[Aug 2020\] 1 paper is accepted by IEEE TCSVT (SCI-1 Top, CCF-B, CAA-A).
+- \[Jun 2022\] 1 paper is accepted by IEEE TIFS.
+- \[Dec 2020\] 1 paper is accepted by IEEE TCSVT.
+- \[Aug 2020\] 1 paper is accepted by IEEE TCSVT.
 - \[Dec 2019\] 1 paper is accepted by IEEE Access (Direct Accept. Before Warning).
 
 📝 1st Author Papers.
