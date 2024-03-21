@@ -93,6 +93,12 @@ Reviewer for:
 
 📝 Peer Review.
 ======
-- [EipFormer: Emphasizing Instance Positions in 3D Instance Segmentation](https://arxiv.org/pdf/2312.05602.pdf), submitted to TIP (rank:1st, SCI-1 Top).
-- [Separable Multi-Concept Erasure from Diffusion Models](https://arxiv.org/abs/2402.05947)
-- ******************************. Adversrial attack and defence, submitted to CVPR. (rank：1st, CCF A).
+- EipFormer: Emphasizing Instance Positions in 3D Instance Segmentation [\[link\]](https://arxiv.org/pdf/2312.05602.pdf).  
+to IEEE Transactions on Neural Networks and Learning Systems  
+__Mengnan Zhao__, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin. (2024).  
+- Separable Multi-Concept Erasure from Diffusion Models [\[link\]](https://arxiv.org/abs/2402.05947).  
+to International Conference on Machine Learning  
+__Mengnan Zhao__, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin. (2024). 
+- Catastrophic Overfitting: A Potential Blessing in Disguise [\[link\]](https://arxiv.org/pdf/2402.18211.pdf).  
+to European Conference on Computer Vision  
+__Mengnan Zhao__, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin. (2024). 
