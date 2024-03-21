@@ -96,10 +96,10 @@ Reviewer for:
 ======
 - EipFormer: Emphasizing Instance Positions in 3D Instance Segmentation [\[link\]](https://arxiv.org/pdf/2312.05602.pdf).  
 to IEEE Transactions on Neural Networks and Learning Systems  
-__Mengnan Zhao__, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin. (2024).  
+__Mengnan Zhao__, Lihe Zhang, Yuqiu Kong, & Baocai Yin. (2024).  
 - Separable Multi-Concept Erasure from Diffusion Models [\[link\]](https://arxiv.org/abs/2402.05947).  
 to International Conference on Machine Learning  
-__Mengnan Zhao__, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin. (2024). 
+__Mengnan Zhao__, Lihe Zhang, Tianhang Zheng, Yuqiu Kong, & Baocai Yin. (2024). 
 - Catastrophic Overfitting: A Potential Blessing in Disguise [\[link\]](https://arxiv.org/pdf/2402.18211.pdf).  
 to European Conference on Computer Vision  
-__Mengnan Zhao__, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin. (2024). 
+__Mengnan Zhao__, Lihe Zhang, Yuqiu Kong, & Baocai Yin. (2024). 
