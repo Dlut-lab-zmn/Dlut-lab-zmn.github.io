@@ -11,7 +11,7 @@ redirect_from:
 
 👋 Hi, I’m zmn ([CV](https://github.com/Dlut-lab-zmn/Dlut-lab-zmn.github.io/blob/master/files/zmn.pdf)). Feel free to contact me by __Email or WeChat(15822843520)__.
 
-🙏 Lucky -> ME <- Lucky 🙏  Negative examples: AAAI2024 Reject-(wa,wa,wr); CVPR2024 Reject-(wa,wa,wa,wr)
+🙏 2024Lucky -> ME <- 2024Lucky 🙏  Negative examples: AAAI2024 Rej-(wa,wa,wa,wr); CVPR2024 Rej-(wa,wa,wr); ECCV2024 Desk-Rej.
 
 💞️ News.
 ======
