@@ -11,6 +11,8 @@ redirect_from:
 
 👋 Hi, I’m zmn ([CV](https://github.com/Dlut-lab-zmn/Dlut-lab-zmn.github.io/blob/master/files/zmn.pdf)). Feel free to contact me by __Email or WeChat(15822843520)__.
 
+🙏 AAAI2024 Reject-(wa,wa,wr); CVPR2024 Reject-(wa,wa,wa,wr)🙏
+
 💞️ News.
 ======
 __CCFA__: TIFS, ICCV; __TRANS__: TIFS, TCSVT; __SCI 1 TOP__: TIFS, TCSVT, PR
