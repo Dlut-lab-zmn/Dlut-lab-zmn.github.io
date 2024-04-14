@@ -82,6 +82,7 @@ __Mengnan Zhao__, Bo Wang
 🌱 Professional Service.
 ======
 Reviewer for: 
+- ACM Multimedia, CCF-A [\[link\]](https://2024.acmmm.org/)
 - IEEE Transactions on Neural Networks and Learning Systems, SCI1-Top [\[link\]](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=8837)
 - IEEE Transactions on Multimedia, SCI1-Top [\[link\]](https://www.letpub.com.cn/index.php?journalid=3404&page=journalapp&view=detail)
 - IEEE Transactions on Circuits and Systems for Video Technology, SCI1-Top [\[link\]](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3369)
