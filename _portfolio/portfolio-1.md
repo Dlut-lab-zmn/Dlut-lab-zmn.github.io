@@ -7,4 +7,4 @@ collection: portfolio
 <img src='/images/dupujiangge.jpg' style='max-width: 400px;'>
 <img src='/images/kaifusi.jpg' style='max-width: 400px;'>
 <img src='/images/kaifusi2.jpg' style='max-width: 400px;'>
-<img src='/images/citywalk.jpg' style='max-width: 400px;'>
+<img src='/images/citiwalk.jpg' style='max-width: 400px;'>
