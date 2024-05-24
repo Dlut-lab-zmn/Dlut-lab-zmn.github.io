@@ -105,4 +105,6 @@ to International Conference on Machine Learning
 __Mengnan Zhao__, Lihe Zhang, Tianhang Zheng, Yuqiu Kong, & Baocai Yin. (2024). 
 - Catastrophic Overfitting: A Potential Blessing in Disguise [\[link\]](https://arxiv.org/pdf/2402.18211.pdf).  
 to European Conference on Computer Vision  
-__Mengnan Zhao__, Lihe Zhang, Yuqiu Kong, & Baocai Yin. (2024). 
+__Mengnan Zhao__, Lihe Zhang, Yuqiu Kong, & Baocai Yin. (2024).
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=iSx5fWQSPluEPbK21KgztEON981Sp3l13MlEkpAzyBM"></script>
