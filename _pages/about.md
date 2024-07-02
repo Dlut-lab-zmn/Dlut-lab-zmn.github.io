@@ -31,7 +31,7 @@ __TOP [C]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR
 📝 1st Author Papers.
 ======
 - Catastrophic Overfitting: A Potential Blessing in Disguise [\[link\]](https://arxiv.org/pdf/2402.18211.pdf).  
-__Mengnan Zhao__, Lihe Zhang, Yuqiu Kong, & Baocai Yin. (2024).
+__Mengnan Zhao__, Lihe Zhang, Yuqiu Kong, & Baocai Yin. (2024).  
 European Conference on Computer Vision.
 - Adversarial Attacks on Scene Graph Generation [\[link\]](https://ieeexplore.ieee.org/document/10417771) [\[code\]](https://github.com/Dlut-lab-zmn/SGG_Attack).  
 __Mengnan Zhao__, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin. (2024).  
