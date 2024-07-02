@@ -15,7 +15,7 @@ redirect_from:
 
 💞️ News.
 ======
-__TOP [c]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR
+__TOP [C]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR
 - \[July 2024\] 1 paper is accepted by ECCV.
 - \[Jan 2024\] 1 paper is accepted by IEEE TIFS.
 - \[Dec 2023\] 1 paper is accepted by PR.
