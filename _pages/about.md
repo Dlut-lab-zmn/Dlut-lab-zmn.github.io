@@ -15,7 +15,8 @@ redirect_from:
 
 💞️ News.
 ======
-__CCFA__: TIFS, ICCV; __TRANS__: TIFS, TCSVT; __SCI 1 TOP__: TIFS, TCSVT, PR
+__TOP [c]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR
+- \[July 2024\] 1 paper is accepted by ECCV.
 - \[Jan 2024\] 1 paper is accepted by IEEE TIFS.
 - \[Dec 2023\] 1 paper is accepted by PR.
 - \[Oct 2023\] 1 paper is accepted by Applied Intelligence.
@@ -29,6 +30,9 @@ __CCFA__: TIFS, ICCV; __TRANS__: TIFS, TCSVT; __SCI 1 TOP__: TIFS, TCSVT, PR
 
 📝 1st Author Papers.
 ======
+- Catastrophic Overfitting: A Potential Blessing in Disguise [\[link\]](https://arxiv.org/pdf/2402.18211.pdf).  
+__Mengnan Zhao__, Lihe Zhang, Yuqiu Kong, & Baocai Yin. (2024).
+European Conference on Computer Vision.
 - Adversarial Attacks on Scene Graph Generation [\[link\]](https://ieeexplore.ieee.org/document/10417771) [\[code\]](https://github.com/Dlut-lab-zmn/SGG_Attack).  
 __Mengnan Zhao__, Lihe Zhang, Wei Wang, Yuqiu Kong, & Baocai Yin. (2024).  
 IEEE Transactions on Information Forensics and Security.
@@ -103,9 +107,6 @@ __Mengnan Zhao__, Lihe Zhang, Yuqiu Kong, & Baocai Yin. (2024).
 - Separable Multi-Concept Erasure from Diffusion Models [\[link\]](https://arxiv.org/abs/2402.05947).  
 to International Conference on Machine Learning  
 __Mengnan Zhao__, Lihe Zhang, Tianhang Zheng, Yuqiu Kong, & Baocai Yin. (2024). 
-- Catastrophic Overfitting: A Potential Blessing in Disguise [\[link\]](https://arxiv.org/pdf/2402.18211.pdf).  
-to European Conference on Computer Vision  
-__Mengnan Zhao__, Lihe Zhang, Yuqiu Kong, & Baocai Yin. (2024).
 <div style="width: 300px; height: 300px;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=iSx5fWQSPluEPbK21KgztEON981Sp3l13MlEkpAzyBM"></script>
 </div>
