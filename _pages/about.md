@@ -16,7 +16,7 @@ redirect_from:
 
 💞️ News.
 ======
-__TOP [C]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR 
+__TOP [C]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR  
 - \[2024-07\] One paper on Fast Adversarial Training is accepted by ECCV.
 - \[2024-01\] One paper on Scene Graph Generation Attack is accepted by IEEE TIFS.
 - \[2023-12\] One paper on Unbised Scene Graph Generation is accepted by PR.
