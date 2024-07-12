@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="border: 1px solid #ccc; padding: 20px; border-radius: 10px; background-color: #f9f9f9; max-width: 800px; margin: 0 auto;">
+<div style="max-width: 1200px; margin: 0 auto; padding: 20px;">
 
 👀 Mengnan, Zhao received his [Ms. degree](https://kns.cnki.net/kcms2/article/abstract?v=xBNwvqFr00I758DBo6k1ZC7bbx_n_5AOYMy08Iw2bIixchabLWSl2bsw716sGJJyiSNre1iPlmE-kwxg_QF2jZZ2ft22y6XOEjQexNbLVwcBspTizTRTUSl4MNwMA-hOhB1UJ6nKIyLGw03ZhVGu0w==&uniplatform=NZKPT&language=CHS) under the supervision of Prof. [Bo Wang](http://www.aisdut.cn/WangBo/publications.html) in 2021. He is pursuing his Ph.D degree under the supervision of Prof. [Baocai Yin](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7), Prof. [Lihe Zhang](https://scholar.google.com/citations?user=XGPdQbIAAAAJ) and Dr. [Yuqiu Kong](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN). The current research of him focuses on __AI security and computer vision__, specifically on __machine unlearn, adversarial attack and defense, biased/unbiased scene graph generation, 3D scene understanding, and knowledge graph reasoning__.
 
@@ -20,6 +20,8 @@ redirect_from:
 
 💞️ News.
 ======
+<div style="border: 1px solid #ccc; padding: 20px; border-radius: 10px; background-color: #f9f9f9; max-width: 800px; margin: 0 auto;">
+
 __TOP [C]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR
 - \[July 2024\] 1 paper is accepted by ECCV.
 - \[Jan 2024\] 1 paper is accepted by IEEE TIFS.
@@ -32,6 +34,8 @@ __TOP [C]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR
 - \[Dec 2020\] 1 paper is accepted by IEEE TCSVT.
 - \[Aug 2020\] 1 paper is accepted by IEEE TCSVT.
 - \[Dec 2019\] 1 paper is accepted by IEEE Access (Direct Accept. Before Warning).
+- 
+</div>
 
 📝 1st Author Papers.
 ======
