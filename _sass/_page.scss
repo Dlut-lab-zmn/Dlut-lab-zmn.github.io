@@ -16,11 +16,6 @@
   }
 }
 .page {
-  max-width: 1200px; /* Adjust as needed */
-  margin: 0 auto; /* Centers the page */
-  padding: 20px; /* Optional: adds some padding */
-}
-.page {
   @include breakpoint($large) {
     @include span(10 of 12 last);
     // @include prefix(0.5 of 12);
