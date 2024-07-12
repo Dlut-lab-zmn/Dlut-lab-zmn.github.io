@@ -19,17 +19,17 @@ redirect_from:
 💞️ News.
 ======
 __TOP [C]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR
-- \[July 2024\] 1 paper is accepted by ECCV.
-- \[Jan 2024\] 1 paper is accepted by IEEE TIFS.
-- \[Dec 2023\] 1 paper is accepted by PR.
-- \[Oct 2023\] 1 paper is accepted by Applied Intelligence.
-- \[Oct 2023\] 1 paper is accepted by ICCV.
-- \[Sep 2023\] 1 paper is accepted by Neurocomputing.
-- \[Jul 2022\] 1 paper is accepted by ICAIS.
-- \[Jun 2022\] 1 paper is accepted by IEEE TIFS.
-- \[Dec 2020\] 1 paper is accepted by IEEE TCSVT.
-- \[Aug 2020\] 1 paper is accepted by IEEE TCSVT.
-- \[Dec 2019\] 1 paper is accepted by IEEE Access (Direct Accept. Before Warning).
+- \[2024. 07\] One paper on Fast Adversarial Training is accepted by ECCV.
+- \[2024. 01\] One paper on Scene Graph Generation Attack is accepted by IEEE TIFS.
+- \[2023. 12\] One paper on Unbised Scene Graph Generation is accepted by PR.
+- \[2023. 10\] One paper on Temporal Knowledge Graph Reasoning is accepted by Applied Intelligence.
+- \[2023. 10\] One paper on Fast Adversarial Training is accepted by ICCV.
+- \[2023. 09\] One paper on Image Captioning Attack is accepted by Neurocomputing.
+- \[2022. 07\] One paper on Adversarial Attack is accepted by ICAIS.
+- \[2022. 06\] One paper on Adversarial Attack is accepted by IEEE TIFS.
+- \[2020. 12\] One paper on Adversarial Attack is accepted by IEEE TCSVT.
+- \[2020. 08\] One paper on Adversarial Attack is accepted by IEEE TCSVT.
+- \[2019. 12\] One paper on Source Camera Identification is accepted by IEEE Access (Direct Accept. Before Warning).
 
 📝 1st Author Papers.
 ======
