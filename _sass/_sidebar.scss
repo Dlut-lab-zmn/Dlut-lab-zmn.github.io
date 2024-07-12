@@ -18,11 +18,9 @@ html, body {
 
   @include clearfix();
   margin-bottom: 1em;
-  width: 100%; /* Ensure the sidebar spans the full width */
-  box-sizing: border-box; /* Include padding in the width */
 
   @include breakpoint($large) {
-    @include span(12 of 12); /* Span the full width on larger screens */
+    @include span(2 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -31,6 +29,7 @@ html, body {
       opacity: 1;
     }
   }
+
 
   @include breakpoint($x-large) {
     padding-right: 0;
@@ -57,14 +56,11 @@ html, body {
 }
 
 .sidebar__right {
-  margin: 0; /* Remove default margin */
-  padding: 20px; /* Adjust padding as needed */
-  box-sizing: border-box; /* Ensure padding is included in the width */
-  float: right; /* Align the right sidebar to the right */
-  width: 100%; /* Span the full width */
+  margin-bottom: 1em;
 
   @include breakpoint($large) {
     position: relative;
+    float: right;
     width: $right-sidebar-width-narrow;
     margin-left: span(0.5 of 12);
     z-index: 10;
@@ -74,7 +70,6 @@ html, body {
     width: $right-sidebar-width;
   }
 }
-
 
 /*
    Author profile and links
