@@ -6,15 +6,23 @@
    Default
    ========================================================================== */
 
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 
   @include clearfix();
   margin-bottom: 1em;
+  width: 100%; /* Ensure the sidebar spans the full width */
+  box-sizing: border-box; /* Include padding in the width */
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(12 of 12); /* Span the full width on larger screens */
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -23,7 +31,6 @@
       opacity: 1;
     }
   }
-
 
   @include breakpoint($x-large) {
     padding-right: 0;
@@ -50,11 +57,14 @@
 }
 
 .sidebar__right {
-  margin-bottom: 1em;
+  margin: 0; /* Remove default margin */
+  padding: 20px; /* Adjust padding as needed */
+  box-sizing: border-box; /* Ensure padding is included in the width */
+  float: right; /* Align the right sidebar to the right */
+  width: 100%; /* Span the full width */
 
   @include breakpoint($large) {
     position: relative;
-    float: right;
     width: $right-sidebar-width-narrow;
     margin-left: span(0.5 of 12);
     z-index: 10;
@@ -64,6 +74,7 @@
     width: $right-sidebar-width;
   }
 }
+
 
 /*
    Author profile and links
