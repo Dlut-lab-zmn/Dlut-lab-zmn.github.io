@@ -12,7 +12,7 @@ redirect_from:
 
 👀 赵梦楠于2021年在[王波教授](http://www.aisdut.cn/WangBo/publications.html)指导下获得[硕士学位](https://kns.cnki.net/kcms2/article/abstract?v=xBNwvqFr00I758DBo6k1ZC7bbx_n_5AOYMy08Iw2bIixchabLWSl2bsw716sGJJyiSNre1iPlmE-kwxg_QF2jZZ2ft22y6XOEjQexNbLVwcBspTizTRTUSl4MNwMA-hOhB1UJ6nKIyLGw03ZhVGu0w==&uniplatform=NZKPT&language=CHS)，并于2025年在[尹宝才教授](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7)、[张立和教授](https://scholar.google.com/citations?user=XGPdQbIAAAAJ)和[孔雨秋博士](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN)指导下完成博士学位。
 
-👋 欢迎通过​​电子邮件或微信（15822843520）与我联系！
+👋 欢迎通过​​电子邮件或微信（15822843520）与我联系
 
 💻 工作.
 ======
