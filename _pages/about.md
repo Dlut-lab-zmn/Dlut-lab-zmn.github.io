@@ -33,21 +33,22 @@ redirect_from:
 - 越狱攻击等大模型安全问题；
 - 模型水印、数据保护等主动安全问题。
 
-💞️ News.
+💞️ 消息（第一作者）.
 ======
 __TOP [C]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR  
-- \[2024-07\] One paper on Fast Adversarial Training is accepted by ECCV.
-- \[2024-01\] One paper on Scene Graph Generation Attack is accepted by IEEE TIFS.
-- \[2023-12\] One paper on Unbised Scene Graph Generation is accepted by PR.
-- \[2023-10\] One paper on Temporal Knowledge Graph Reasoning is accepted by Applied Intelligence.
-- \[2023-10\] One paper on Fast Adversarial Training is accepted by ICCV.
-- \[2023-09\] One paper on Image Captioning Attack is accepted by Neurocomputing.
-- \[2022-07\] One paper on Adversarial Attack is accepted by ICAIS.
-- \[2022-06\] One paper on Adversarial Attack is accepted by IEEE TIFS.
-- \[2020-12\] One paper on Adversarial Attack is accepted by IEEE TCSVT.
-- \[2020-08\] One paper on Adversarial Attack is accepted by IEEE TCSVT.
-- \[2019-12\] One paper on Source Camera Identification is accepted by IEEE Access (Direct Accept. Before Warning).
-
+- \[2025-08\] 一篇关于3D实例分割的论文被ESWA录用
+- \[2024-07\] 一篇关于快速对抗训练的论文被ECCV会议录用
+- \[2024-01\] 一篇关于场景图生成攻击的论文被IEEE TIFS期刊录用
+- \[2023-12\] 一篇关于无偏场景图生成的论文被PR期刊录用
+- \[2023-10\] 一篇关于时序知识图推理的论文被Applied Intelligence期刊录用
+- \[2023-10\] 一篇关于快速对抗训练的论文被ICCV会议录用
+- \[2023-09\] 一篇关于图像描述攻击的论文被Neurocomputing期刊录用
+- \[2022-07\] 一篇关于对抗攻击的论文被ICAIS会议录用
+- \[2022-06\] 一篇关于对抗攻击的论文被IEEE TIFS期刊录用
+- \[2020-12\] 一篇关于对抗攻击的论文被IEEE TCSVT期刊录用
+- \[2020-08\] 一篇关于对抗攻击的论文被IEEE TCSVT期刊录用
+- \[2019-12\] 一篇关于源摄像头识别的论文被IEEE Access期刊录用（警告前直接录用，无需修改）
+  
 📝 1st Author Papers.
 ======
 - Catastrophic Overfitting: A Potential Blessing in Disguise [\[link\]](https://arxiv.org/pdf/2402.18211.pdf).  
