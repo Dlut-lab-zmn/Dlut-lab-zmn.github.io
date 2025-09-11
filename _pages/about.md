@@ -9,11 +9,28 @@ redirect_from:
 ---
 
 
-👀 Mengnan, Zhao received his [Ms. degree](https://kns.cnki.net/kcms2/article/abstract?v=xBNwvqFr00I758DBo6k1ZC7bbx_n_5AOYMy08Iw2bIixchabLWSl2bsw716sGJJyiSNre1iPlmE-kwxg_QF2jZZ2ft22y6XOEjQexNbLVwcBspTizTRTUSl4MNwMA-hOhB1UJ6nKIyLGw03ZhVGu0w==&uniplatform=NZKPT&language=CHS) under the supervision of Prof. [Bo Wang](http://www.aisdut.cn/WangBo/publications.html) in 2021. He is pursuing his Ph.D degree under the supervision of Prof. [Baocai Yin](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7), Prof. [Lihe Zhang](https://scholar.google.com/citations?user=XGPdQbIAAAAJ) and Dr. [Yuqiu Kong](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN). The current research of him focuses on __AI security and computer vision__, specifically on __machine unlearn, adversarial attack and defense, biased/unbiased scene graph generation, 3D scene understanding, and knowledge graph reasoning__.
 
-👋 Hi, I’m zmn ([CV](https://github.com/Dlut-lab-zmn/Dlut-lab-zmn.github.io/blob/master/files/zmn.pdf)). Feel free to contact me by __Email or WeChat(15822843520)__.
+👀 赵梦楠于2021年在[王波教授](http://www.aisdut.cn/WangBo/publications.html)指导下获得[硕士学位](https://kns.cnki.net/kcms2/article/abstract?v=xBNwvqFr00I758DBo6k1ZC7bbx_n_5AOYMy08Iw2bIixchabLWSl2bsw716sGJJyiSNre1iPlmE-kwxg_QF2jZZ2ft22y6XOEjQexNbLVwcBspTizTRTUSl4MNwMA-hOhB1UJ6nKIyLGw03ZhVGu0w==&uniplatform=NZKPT&language=CHS)，并于2025年在[尹宝才教授](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7)、[张立和教授](https://scholar.google.com/citations?user=XGPdQbIAAAAJ)和[孔雨秋博士](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN)指导下完成博士学位。
 
-🙏 2024Lucky -> ME <- 2024Lucky 🙏  Negative examples: AAAI2024 Rej-(wa,wa,wa,wr); CVPR2024 Rej-(wa,wa,wr).
+👋 欢迎通过​​电子邮件或微信（15822843520）与我联系！
+
+## 工作.
+- 2025.07-2025.09, 华南理工大学，助理教授（合岗），目前已离职。
+- 2024.10-2025.04, 新加坡国立大学，合作导师：[王鑫超教授](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=en)
+- 2021.03-2021.06, 中科院自动化所实习，实习导师：[王伟教授](http://cripac.ia.ac.cn/people/wwang/)
+
+## 荣誉.
+- 首届中国科协青年博士生人才托举项目
+- 2025年辽宁省优秀毕业生
+- 2025年大连理工大学优秀毕业生
+- 2024年博士国家奖学金
+- 2024年博士单项（智育）
+- 2023、2024 大连理工大学优秀研究生
+
+## 研究领域.
+- 对抗攻防、不可学习、后门攻击等内生脆弱问题；
+- 越狱攻击等大模型安全问题；
+- 模型水印、数据保护等主动安全问题。
 
 💞️ News.
 ======
