@@ -14,12 +14,14 @@ redirect_from:
 
 👋 欢迎通过​​电子邮件或微信（15822843520）与我联系！
 
-## 工作.
+💻 工作.
+======
 - 2025.07-2025.09, 华南理工大学，助理教授（合岗），目前已离职。
 - 2024.10-2025.04, 新加坡国立大学，合作导师：[王鑫超教授](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=en)
 - 2021.03-2021.06, 中科院自动化所实习，实习导师：[王伟教授](http://cripac.ia.ac.cn/people/wwang/)
 
-## 荣誉.
+💗 荣誉.
+======
 - 首届中国科协青年博士生人才托举项目
 - 2025年辽宁省优秀毕业生
 - 2025年大连理工大学优秀毕业生
@@ -27,7 +29,8 @@ redirect_from:
 - 2024年博士单项（智育）
 - 2023、2024 大连理工大学优秀研究生
 
-## 研究领域.
+🧱 研究领域.
+======
 - AI 安全；
 - 对抗攻防、不可学习、后门攻击等内生脆弱问题；
 - 越狱攻击等大模型安全问题；
@@ -49,8 +52,14 @@ __TOP [C]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR
 - \[2020-08\] 一篇关于对抗攻击的论文被IEEE TCSVT期刊录用
 - \[2019-12\] 一篇关于源摄像头识别的论文被IEEE Access期刊录用（警告前直接录用，无需修改）
   
-📝 1st Author Papers.
+📝 列表更新.
 ======
+- EipFormer: Enhancing 3D Instance Segmentation by Emphasizing Instance Positions.
+__Mengnan Zhao__, Lihe Zhang, Yuqiu Kong, & Baocai Yin. (2025).
+Expert Systems with Applications.
+- CollabLearn: Propelling Weakly-Supervised Referring Image Segmentation Through Collaboration Between Semantics and Details.
+Chao Jiang, Yuqiu Kong, __Mengnan Zhao__, Lihe Zhang & Baocai Yin. (2025).
+IEEE Transactions on Multimedia.
 - Catastrophic Overfitting: A Potential Blessing in Disguise [\[link\]](https://arxiv.org/pdf/2402.18211.pdf).  
 __Mengnan Zhao__, Lihe Zhang, Yuqiu Kong, & Baocai Yin. (2024).  
 European Conference on Computer Vision.
@@ -86,7 +95,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, 31(6), 2089-2099
 __Mengnan Zhao__, Bo Wang, Fei Wei, Meineng Zhu & Xue Sui. (2019).  
 IEEE Access, Direct accept, 8, 54431-54440.
 
-📫 Patents.
+📫 授权专利.
 ======
 - A Reasonable Adv Analysis Method for Source Camera Recognition [\[link\]](https://www.xjishu.com/zhuanli/55/202011283607.html).  
 CN112381149A  
@@ -104,30 +113,13 @@ Bo Wang (Ms. Tutor), __Mengnan Zhao__
 CN113821770A  
 __Mengnan Zhao__, Bo Wang
 
-🌱 Professional Service.
+🌱 专业服务.
 ======
 Reviewer for: 
-- ACM Multimedia, CCF-A [\[link\]](https://2024.acmmm.org/)
-- IEEE Transactions on Neural Networks and Learning Systems, SCI1-Top [\[link\]](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=8837)
-- IEEE Transactions on Multimedia, SCI1-Top [\[link\]](https://www.letpub.com.cn/index.php?journalid=3404&page=journalapp&view=detail)
-- IEEE Transactions on Circuits and Systems for Video Technology, SCI1-Top [\[link\]](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=3369)
-- European Conference on Computer Vision, CV Top-conf [\[link\]]()
-- IEEE Transactions on Network Science and Engineering, SCI1 & SCI2 [\[link\]](https://www.letpub.com.cn/index.php?journalid=10891&page=journalapp&view=detail)
-- Journal of King Saud University-Computer and Information Sciences SCI2 [\[link\]](https://www.letpub.com.cn/index.php?journalid=11137&page=journalapp&view=detail)
-- International Journal of Machine Learning and Cybernetics, SCI3 [\[link\]](https://www.letpub.com.cn/index.php?journalid=10028&page=journalapp&view=detail).
+- [C]. CVPR, ICCV, ECCV, NIPS, ACMM…
+- [J]. TIFS, TCSVT, TMM, TNNLS, TNSE, ESWA, EAAI…
 
-💻 Internships.
-======
-- Institute of Automation, Chinese Academy of Sciences. w. Prof. [Wei Wang](http://cripac.ia.ac.cn/people/wwang/).
 
-📝 Peer Review.
-======
-- EipFormer: Emphasizing Instance Positions in 3D Instance Segmentation [\[link\]](https://arxiv.org/pdf/2312.05602.pdf).  
-to IEEE Transactions on Neural Networks and Learning Systems  
-__Mengnan Zhao__, Lihe Zhang, Yuqiu Kong, & Baocai Yin. (2024).  
-- Separable Multi-Concept Erasure from Diffusion Models [\[link\]](https://arxiv.org/abs/2402.05947).  
-to International Conference on Machine Learning  
-__Mengnan Zhao__, Lihe Zhang, Tianhang Zheng, Yuqiu Kong, & Baocai Yin. (2024). 
 <div style="width: 300px; height: 300px;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=iSx5fWQSPluEPbK21KgztEON981Sp3l13MlEkpAzyBM"></script>
 </div>
