@@ -4,7 +4,7 @@ rm _config.yml
 # 2. 创建一个全新的配置文件（不包含任何特殊字符）
 cat > _config.yml << 'EOF'
 # Welcome to Jekyll!
-#
+# 
 # This config file is meant for settings that affect your entire site
 # For technical reasons, this file is *NOT* reloaded automatically
 
