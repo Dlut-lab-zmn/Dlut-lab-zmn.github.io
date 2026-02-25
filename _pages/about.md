@@ -4,7 +4,7 @@ title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /about.html 
 --- 
 
 👀 Mengnan, Zhao received his Ms. degree under the supervision of [Prof. Bo Wang](http://www.aisdut.cn/WangBo/publications.html) in 2021, and his Ph.D degree under the supervision of [Prof. Baocai Yin](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7), [Prof. Lihe Zhang](https://scholar.google.com/citations?user=XGPdQbIAAAAJ) and Dr. Yuqiu Kong in 2025. He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National University of Singapore under the supervision of [Prof. Xinchao Wang](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=en).
