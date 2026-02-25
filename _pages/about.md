@@ -9,49 +9,75 @@ redirect_from:
 
 
 
-👀 赵梦楠于2021年在[王波教授](http://www.aisdut.cn/WangBo/publications.html)指导下获得[硕士学位](https://kns.cnki.net/kcms2/article/abstract?v=xBNwvqFr00I758DBo6k1ZC7bbx_n_5AOYMy08Iw2bIixchabLWSl2bsw716sGJJyiSNre1iPlmE-kwxg_QF2jZZ2ft22y6XOEjQexNbLVwcBspTizTRTUSl4MNwMA-hOhB1UJ6nKIyLGw03ZhVGu0w==&uniplatform=NZKPT&language=CHS)，并于2025年在[尹宝才教授](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7)、[张立和教授](https://scholar.google.com/citations?user=XGPdQbIAAAAJ)和[孔雨秋博士](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN)指导下完成博士学位。
+👀 Mengnan, Zhao received his Ms. degree under the supervision of [Prof. Bo Wang](http://www.aisdut.cn/WangBo/publications.html) in 2021, and his Ph.D degree under the supervision of [Prof. Baocai Yin](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7), [Prof. Lihe Zhang](https://scholar.google.com/citations?user=XGPdQbIAAAAJ) and Dr. Yuqiu Kong in 2025. He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National University of Singapore under the supervision of [Prof. Xinchao Wang](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=en).
 
-👋 欢迎通过​​电子邮件或微信（15822843520）与我联系
+👋 Feel free to contact me via email or WeChat (15822843520).
 
-💻 工作.
+💻 Works.
 ======
-- 2025.07-2025.09, 华南理工大学，助理教授（合岗），目前已离职。
-- 2024.10-2025.04, 新加坡国立大学，合作导师：[王鑫超教授](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=en)
-- 2021.03-2021.06, 中科院自动化所实习，实习导师：[王伟教授](http://cripac.ia.ac.cn/people/wwang/)
+- July 2025 - September 2025, South China University of Technology, Assistant Professor, currently resigned.
 
-💗 荣誉.
+- October 2024 - April 2025, National University of Singapore, Supervisor: Professor Wang Xinchao
+
+- March 2021 - June 2021, Internship at the Institute of Automation, Chinese Academy of Sciences, Supervisor: [Professor Wang Wei](http://cripac.ia.ac.cn/people/wwang/)
+
+💗 Honors.
 ======
-- 首届中国科协青年博士生人才托举项目
-- 2025年辽宁省优秀毕业生
-- 2025年大连理工大学优秀毕业生
-- 2024年博士国家奖学金
-- 2024年博士单项（智育）
-- 2023、2024 大连理工大学优秀研究生
+- First China Association for Science and Technology Young Doctoral Student Talent Support Project
 
-🧱 研究领域.
+- 2025 Liaoning Province Outstanding Graduate
+
+- 2025 Dalian University of Technology Outstanding Graduate
+
+- 2024 National Doctoral Scholarship
+
+- 2024 Doctoral Special Award (Intellectual Development)
+
+- 2023 & 2024 Dalian University of Technology Outstanding Postgraduate
+
+🧱 Research Area.
 ======
-- AI 安全；
-- 对抗攻防、不可学习、后门攻击等内生脆弱问题；
-- 越狱攻击等大模型安全问题；
-- 模型水印、数据保护等主动安全问题。
+- AI security;
 
-💞️ 消息（第一作者）.
+- Inherent vulnerabilities such as adversarial attacks and backdoor attacks;
+
+- Security issues related to large models, such as jailbreak attacks;
+
+- Proactive security issues such as model watermarking and data protection.
+
+💞️ News(First Author).
 ======
 __TOP [C]/[J]__: ICCV, ECCV, TIFS, TCSVT, PR  
-- \[2025-08\] 一篇关于3D实例分割的论文被ESWA录用
-- \[2024-07\] 一篇关于快速对抗训练的论文被ECCV会议录用
-- \[2024-01\] 一篇关于场景图生成攻击的论文被IEEE TIFS期刊录用
-- \[2023-12\] 一篇关于无偏场景图生成的论文被PR期刊录用
-- \[2023-10\] 一篇关于时序知识图推理的论文被Applied Intelligence期刊录用
-- \[2023-10\] 一篇关于快速对抗训练的论文被ICCV会议录用
-- \[2023-09\] 一篇关于图像描述攻击的论文被Neurocomputing期刊录用
-- \[2022-07\] 一篇关于对抗攻击的论文被ICAIS会议录用
-- \[2022-06\] 一篇关于对抗攻击的论文被IEEE TIFS期刊录用
-- \[2020-12\] 一篇关于对抗攻击的论文被IEEE TCSVT期刊录用
-- \[2020-08\] 一篇关于对抗攻击的论文被IEEE TCSVT期刊录用
-- \[2019-12\] 一篇关于源摄像头识别的论文被IEEE Access期刊录用（警告前直接录用，无需修改）
+
+- [2026-02] A paper on adversarial training accepted by CVPR
+
+- [2026-01] A paper on machine forgetting accepted by Information Science, Chinese Academy of Sciences
+
+- [2025-08] A paper on 3D instance segmentation accepted by ESWA
+
+- [2024-07] A paper on fast adversarial training accepted by ECCV
+
+- [2024-01] A paper on scene graph generation attacks accepted by TIFS
+
+- [2023-12] A paper on unbiased scene graph generation accepted by PR
+
+- [2023-10] A paper on temporal knowledge graph reasoning accepted by Applied Intelligence
+
+- [2023-10] A paper on rapid adversarial training was accepted by ICCV
+
+- [2023-09] A paper on image description attacks was accepted by Neurocomputing
+
+- [2022-07] A paper on adversarial attacks was accepted by ICAIS
+
+- [2022-06] A paper on adversarial attacks was accepted by TIFS
+
+- [2020-12] A paper on adversarial attacks was accepted by TCSVT
+
+- [2020-08] A paper on adversarial attacks was accepted by TCSVT 
+
+- [2019-12] A paper on source camera recognition was accepted by IEEE Access (accepted directly before warning, no modifications required).
   
-📝 列表更新.
+📝 Lists.
 ======
 - EipFormer: Enhancing 3D Instance Segmentation by Emphasizing Instance Positions.
 __Mengnan Zhao__, Lihe Zhang, Yuqiu Kong, & Baocai Yin. (2025).
@@ -94,7 +120,7 @@ IEEE Transactions on Circuits and Systems for Video Technology, 31(6), 2089-2099
 __Mengnan Zhao__, Bo Wang, Fei Wei, Meineng Zhu & Xue Sui. (2019).  
 IEEE Access, Direct accept, 8, 54431-54440.
 
-📫 授权专利.
+📫 Patents.
 ======
 - A Reasonable Adv Analysis Method for Source Camera Recognition [\[link\]](https://www.xjishu.com/zhuanli/55/202011283607.html).  
 CN112381149A  
@@ -112,7 +138,7 @@ Bo Wang (Ms. Tutor), __Mengnan Zhao__
 CN113821770A  
 __Mengnan Zhao__, Bo Wang
 
-🌱 专业服务.
+🌱 Services
 ======
 Reviewer for: 
 - [C]. CVPR, ICCV, ECCV, NIPS, ACMM…
