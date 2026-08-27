@@ -1,107 +1,59 @@
-# 1. 删除当前配置文件
-rm _config.yml
+url: "https://dlut-lab-zmn.github.io"
+# baseurl: Hanchao-Zhang.github.io
+# Basic Information
+title: Mengnan Zhao
+# subtitle:
+position: Tenure-track Assoc. Prof
+# subposition: Chair of the Chinese Student and Scholar Association (CSSA)
+# subposition_link: https://nyu-medicine-cssa.github.io
+affiliation: Anhui University
+subaffiliation: Computer science
+affiliation_link: https://www.ahu.edu.cn/
+subaffiliation_link: https://www.ahu.edu.cn/
+email: gaoshanxingzhi@163.com
+address: Hefei, Anhui, China
+# address_link: 
 
-# 2. 创建一个全新的配置文件（不包含任何特殊字符）
-cat > _config.yml << 'EOF'
-# Welcome to Jekyll!
-# 
-# This config file is meant for settings that affect your entire site
-# For technical reasons, this file is *NOT* reloaded automatically
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: Mengnan Zhao, adversarial training, machine unlearning, security and privacy, computer vision
+description: Academic homepage of Mengnan Zhao, focusing on adversarial learning, security and privacy, machine unlearning, and 3D scene understanding.
+canonical: https://dlut-lab-zmn.github.io/
 
-# Site Settings
-locale                   : "en-US"
-title                    : "Mengnan Zhao"
-title_separator          : "-"
-name                     : "Mengnan Zhao"
-description              : "Academic website of Mengnan Zhao"
-url                      : https://Dlut-lab-zmn.github.io
-baseurl                  : ""
-repository               : "Dlut-lab-zmn/Dlut-lab-zmn.github.io"
-breadcrumbs              : false
-words_per_minute         : 160
-future                   : true
+# Links
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?user=x2tzLL4AAAAJ
+# cv_link: assets/files/HanchaoZhangCV.pdf
+github_link: https://github.com/Dlut-lab-zmn/Mengnan-Zhao
+linkedin: https://dlut-lab-zmn.github.io/
+twitter: https://dlut-lab-zmn.github.io/
 
-# Site Author
-author:
-  name             : "Mengnan Zhao"
-  avatar           : "profile.png"
-  bio              : "Dalian University of Technology"
-  location         : "Dalian"
-  googlescholar    : "https://scholar.google.com/citations?user=x2tzLL4AAAAJ"
-  email            : "dlutzmn@mail.dlut.edu.cn"
-  wechat           : "15822843520"
+# Images (e.g., your profile picture and your website's favicon)
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
+avatar: ./assets/img/avatar.jpg
+# logo: ./assets/img/logo.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
 
-# Collections
-collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: false
 
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
+# Google Analytics ID
+# Please remove this if you don't use Google Analytics
+google_analytics: UA-111540567-4
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
+# Use this project as a remote theme for GitHub Pages
+# See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
+remote_theme: yaoyao-liu/minimal-light
 
-# Plugins
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-
-# Outputting
-permalink: /:categories/:title/
-timezone: Asia/Shanghai
-
-# HTML Compression
-compress_html:
-  clippings: all
-EOF
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - README_zh_Hans.md
+  - README_zh_Hant.md
+  - README_de.md
+  - LICENSE
+  - minimal-light.gemspec
