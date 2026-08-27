@@ -2,16 +2,18 @@ url: "https://dlut-lab-zmn.github.io"
 # baseurl: Hanchao-Zhang.github.io
 # Basic Information
 title: Mengnan Zhao
+chinese_name: 赵梦楠
 # subtitle:
 position: Tenure-track Assoc. Prof
 # subposition: Chair of the Chinese Student and Scholar Association (CSSA)
 # subposition_link: https://nyu-medicine-cssa.github.io
-affiliation: Anhui University
-subaffiliation: Computer science
+profile_line: Computer science，AHU
+# affiliation: Anhui University
+# subaffiliation: Computer science
 affiliation_link: https://www.ahu.edu.cn/
 subaffiliation_link: https://www.ahu.edu.cn/
 email: gaoshanxingzhi@163.com
-address: Hefei, Anhui, China
+# address: Hefei, Anhui, China
 # address_link: 
 
 # Search Engine Optimization (SEO)
