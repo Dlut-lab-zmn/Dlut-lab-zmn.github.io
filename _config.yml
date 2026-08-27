@@ -1,4 +1,4 @@
-url: "https://dlut-lab-zmn.github.io"
+url: "https://AdvLearnLab.github.io"
 # baseurl: Hanchao-Zhang.github.io
 # Basic Information
 title: Mengnan Zhao
@@ -20,15 +20,15 @@ email: gaoshanxingzhi@163.com
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: Mengnan Zhao, adversarial training, machine unlearning, security and privacy, computer vision
 description: Academic homepage of Mengnan Zhao, focusing on adversarial learning, security and privacy, machine unlearning, and 3D scene understanding.
-canonical: https://dlut-lab-zmn.github.io/
+canonical: https://AdvLearnLab.github.io/
 
 # Links
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=x2tzLL4AAAAJ
 # cv_link: assets/files/HanchaoZhangCV.pdf
-github_link: https://github.com/Dlut-lab-zmn/Mengnan-Zhao
-linkedin: https://dlut-lab-zmn.github.io/
-twitter: https://dlut-lab-zmn.github.io/
+github_link: https://github.com/AdvLearnLab/Mengnan-Zhao
+linkedin: https://AdvLearnLab.github.io/
+twitter: https://AdvLearnLab.github.io/
 
 # Images (e.g., your profile picture and your website's favicon)
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
