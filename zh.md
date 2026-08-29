@@ -26,6 +26,17 @@ permalink: /zh.html
 
 欢迎通过 __Email 或微信（15822843520）__ 联系。
 
+<div class="personal-notes" aria-label="Personal notes">
+  <article class="personal-note">
+    <span>座右铭</span>
+    <strong>“勿以恶小而为之，勿以善小而不为。”</strong>
+  </article>
+  <article class="personal-note">
+    <span>喜好</span>
+    <strong>“以铜为镜，可以正衣冠；以人为镜，可以明得失。”</strong>
+  </article>
+</div>
+
 ## 工作经历
 - 现任安徽大学五类人才引进（副高待遇）。
 - 2025.07-2025.09，华南理工大学助理教授（合岗博后），已离职。
@@ -127,11 +138,4 @@ permalink: /zh.html
     <div class="service-main"><strong>TCSVT</strong><span>IEEE Transactions on Circuits and Systems for Video Technology</span></div>
     <div class="service-badges"><span>Journal</span><span>CCF B</span><span>SCI I</span></div>
   </article>
-</div>
-
-## 研究历程
-
-<div class="journey-note">
-  <strong>2024 年是持续积累与成长的一年。</strong>
-  <span>论文接收、审稿反馈与挫折经历，最终都成为研究道路的一部分。</span>
 </div>

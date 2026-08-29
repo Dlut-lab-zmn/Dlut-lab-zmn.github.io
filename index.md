@@ -25,6 +25,17 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 
 👋 Feel free to contact Mengnan by __Email or WeChat(15822843520)__.
 
+<div class="personal-notes" aria-label="Personal notes">
+  <article class="personal-note">
+    <span>Motto</span>
+    <strong>“勿以恶小而为之，勿以善小而不为。”</strong>
+  </article>
+  <article class="personal-note">
+    <span>Reflection</span>
+    <strong>“以铜为镜，可以正衣冠；以人为镜，可以明得失。”</strong>
+  </article>
+</div>
+
 ## Work
 - Currently, 五类人才引进（副高待遇） at Anhui University.
 - 2025.07-2025.09, Assist. Prof. at South China University of Technology, Resigned.
@@ -168,13 +179,6 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
     <div class="service-main"><strong>EAAI</strong><span>Engineering Applications of Artificial Intelligence</span></div>
     <div class="service-badges"><span>Journal</span><span>SCI I</span></div>
   </article>
-</div>
-
-## Research Journey
-
-<div class="journey-note">
-  <strong>2024 was a year of persistence and growth.</strong>
-  <span>Major acceptances, useful reviews, and hard rejections all became part of the same research path.</span>
 </div>
 
 
