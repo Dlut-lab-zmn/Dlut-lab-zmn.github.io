@@ -163,6 +163,10 @@ screen and (min-width: 480px) {
   border-color: var(--global-theme-color);
 }
 
+.publications-page ol.bibliography li .links {
+  display: none;
+}
+
 .publications ol.bibliography li .hidden {
   font-size: 0.875rem;
   max-height: 0px;
