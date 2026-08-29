@@ -62,8 +62,32 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 
 ## Research Interests
 
-<div class="research-cloud-panel">
-  <img src="{{ '/assets/img/research-cloud.jpg' | relative_url }}" alt="Research keyword cloud">
+<div class="research-interests">
+  <div class="research-cloud-panel">
+    <img src="{{ '/assets/img/research-cloud.jpg' | relative_url }}" alt="Research keyword cloud">
+  </div>
+  <div class="research-focus-grid" aria-label="Research focus areas">
+    <article class="research-focus-card">
+      <span>01</span>
+      <strong>Trustworthy Large Models</strong>
+      <p>Security adaptation, alignment robustness, and reliable deployment for pre-trained foundation models.</p>
+    </article>
+    <article class="research-focus-card">
+      <span>02</span>
+      <strong>Adversarial Learning</strong>
+      <p>Fast adversarial training, robust evaluation, and defense against visual and multimodal attacks.</p>
+    </article>
+    <article class="research-focus-card">
+      <span>03</span>
+      <strong>Privacy &amp; Unlearning</strong>
+      <p>Data protection, machine unlearning, and controllable removal of sensitive knowledge.</p>
+    </article>
+    <article class="research-focus-card">
+      <span>04</span>
+      <strong>Vision Understanding</strong>
+      <p>2D/3D scene perception, segmentation, reasoning, and secure visual intelligence.</p>
+    </article>
+  </div>
 </div>
 
 <h2 id="news-1st-author">News (1st author)</h2>
