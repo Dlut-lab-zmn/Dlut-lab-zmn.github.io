@@ -42,11 +42,12 @@
       {% endif %}
 
       {% assign current_lang = page.lang | default: 'en' %}
-      {% if site.chinese_name %}
-      <div class="profile-name-zh">{{ site.chinese_name }}</div>
-      {% endif %}
       <div class="profile-title-row">
+        {% if current_lang == 'zh' %}
+        <h1>{{ site.chinese_name }}</h1>
+        {% else %}
         <h1>{{ site.title }}</h1>
+        {% endif %}
         <nav class="lang-switch" aria-label="Language switcher">
           <a href="{{ '/zh.html' | relative_url }}" {% if current_lang == 'zh' %}class="active"{% endif %}>中文</a>
           <a href="{{ '/' | relative_url }}" {% if current_lang != 'zh' %}class="active"{% endif %}>English</a>

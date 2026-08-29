@@ -21,14 +21,14 @@ permalink: /zh.html
 
 <h2 id="about-me">个人简介</h2>
 
-赵梦楠于 2021 年在大连理工大学获得硕士学位，导师为 [王博教授](http://www.aisdut.cn/WangBo/publications.html)；于 2025 年在大连理工大学获得博士学位，导师为 [尹宝才教授](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7)、[张立和教授](https://scholar.google.com/citations?user=XGPdQbIAAAAJ) 与 [孔雨秋博士](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN)。
-博士期间曾赴新加坡国立大学 Learning and Vision Lab 访问，合作导师为 [Xinchao Wang 教授](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=en)。
+赵梦楠于 2021 年在大连理工大学获得硕士学位，导师为 [王波教授](http://www.aisdut.cn/WangBo/publications.html)；于 2025 年在大连理工大学获得博士学位，导师为 [孔雨秋博士](https://scholar.google.com/citations?user=nKrhk4UAAAAJ&hl=zh-CN)、[张立和教授](https://scholar.google.com/citations?user=XGPdQbIAAAAJ) 与 [尹宝才教授](https://www.aminer.org/profile/yin-baocai/542d6bb7dabfae12b9804aa7)。
+博士期间曾赴新加坡国立大学 Learning and Vision Lab 访问，合作导师为 [王鑫超教授](https://scholar.google.com/citations?user=w69Buq0AAAAJ&hl=en)。
 
 欢迎通过 __Email 或微信（15822843520）__ 联系。
 
 ## 工作经历
 - 现任安徽大学五类人才引进（副高待遇）。
-- 2025.07-2025.09，华南理工大学助理教授，已离职。
+- 2025.07-2025.09，华南理工大学助理教授（合岗博后），已离职。
 - 2024.10-2025.04，国家公派新加坡国立大学访问博士生。
 - 2021.02-2021.06，中国科学院自动化研究所实习，合作导师为 [王伟教授](http://cripac.ia.ac.cn/people/wwang/)。
 
@@ -50,10 +50,10 @@ permalink: /zh.html
 </div>
 
 ## 荣誉奖励
-- 中国图象图形学学会动画与数字娱乐专业委员会委员
-- 中国图象图形学学会数字取证与安全专业委员会委员
+- 中国图学学会动漫图学工程专委会委员
+- 中国图学学会数字媒体取证与安全专委会委员
 - IEEE、CCF、CSIG 会员
-- **中国图象图形学学会高级会员**
+- **中国图学学会高级会员**
 - 2024 **中国科协青年人才托举工程博士生专项计划（中国计算机学会）**
 - 2025 **辽宁省优秀毕业生**
 - 2025 博士研究生国家奖学金
