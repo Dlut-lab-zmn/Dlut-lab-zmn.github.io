@@ -32,7 +32,7 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
   </article>
   <article class="personal-note">
     <span>02</span>
-    <strong>“以铜为镜，可以正衣冠；以人为镜，可以明得失。”</strong>
+    <strong>“以铜为镜，可以正衣冠；以史为镜，可以知兴替；以人为镜，可以明得失。”</strong>
   </article>
 </div>
 
@@ -180,4 +180,3 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
     <strong>计算机伦理</strong>
   </article>
 </div>
-
