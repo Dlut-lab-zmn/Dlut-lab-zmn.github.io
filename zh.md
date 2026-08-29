@@ -96,12 +96,44 @@ permalink: /zh.html
     <div class="service-badges"><span>Conference</span><span>CCF A</span></div>
   </article>
   <article class="service-row">
+    <div class="service-main"><strong>BMVC</strong><span>British Machine Vision Conference</span></div>
+    <div class="service-badges"><span>Conference</span><span>CCF C</span></div>
+  </article>
+  <article class="service-row">
+    <div class="service-main"><strong>ACM MM</strong><span>ACM Multimedia</span></div>
+    <div class="service-badges"><span>Conference</span><span>CCF A</span></div>
+  </article>
+  <article class="service-row">
+    <div class="service-main"><strong>AAAI</strong><span>AAAI Conference on Artificial Intelligence</span></div>
+    <div class="service-badges"><span>Conference</span><span>CCF A</span></div>
+  </article>
+  <article class="service-row">
     <div class="service-main"><strong>TIFS</strong><span>IEEE Transactions on Information Forensics and Security</span></div>
     <div class="service-badges"><span>Journal</span><span>CCF A</span><span>SCI I</span></div>
   </article>
   <article class="service-row">
     <div class="service-main"><strong>TCSVT</strong><span>IEEE Transactions on Circuits and Systems for Video Technology</span></div>
     <div class="service-badges"><span>Journal</span><span>CCF B</span><span>SCI I</span></div>
+  </article>
+  <article class="service-row">
+    <div class="service-main"><strong>TMM</strong><span>IEEE Transactions on Multimedia</span></div>
+    <div class="service-badges"><span>Journal</span><span>CCF B</span><span>SCI I</span></div>
+  </article>
+  <article class="service-row">
+    <div class="service-main"><strong>TNNLS</strong><span>IEEE Transactions on Neural Networks and Learning Systems</span></div>
+    <div class="service-badges"><span>Journal</span><span>CCF B</span><span>SCI I</span></div>
+  </article>
+  <article class="service-row">
+    <div class="service-main"><strong>TNSE</strong><span>IEEE Transactions on Network Science and Engineering</span></div>
+    <div class="service-badges"><span>Journal</span><span>SCI I</span></div>
+  </article>
+  <article class="service-row">
+    <div class="service-main"><strong>ESWA</strong><span>Expert Systems with Applications</span></div>
+    <div class="service-badges"><span>Journal</span><span>SCI I</span></div>
+  </article>
+  <article class="service-row">
+    <div class="service-main"><strong>EAAI</strong><span>Engineering Applications of Artificial Intelligence</span></div>
+    <div class="service-badges"><span>Journal</span><span>SCI I</span></div>
   </article>
 </div>
 
