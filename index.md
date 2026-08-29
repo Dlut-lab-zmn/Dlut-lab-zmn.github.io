@@ -6,9 +6,8 @@ lang: en
 <div class="hero-card">
   <h1>Adversarial Learning · Privacy · Vision</h1>
   <p class="hero-lede">
-    I work on adversarial learning, machine unlearning, data protection, fairness,
-    and 3D scene understanding, with publications across top computer vision and
-    information security venues.
+    I work on adversarial learning, machine unlearning, data protection, and fairness,
+    with publications across top computer vision and information security venues.
   </p>
   <div class="hero-stats" aria-label="Profile highlights">
     <div><strong>15 1st-author Papers</strong><span>During Master &amp; Ph.D.</span></div>

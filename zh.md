@@ -8,7 +8,7 @@ permalink: /zh.html
 <div class="hero-card">
   <h1>对抗学习 · 隐私保护 · 视觉智能</h1>
   <p class="hero-lede">
-    我的研究聚焦于对抗学习、机器遗忘、数据保护、公平性与 3D 场景理解，
+    我的研究聚焦于对抗学习、机器遗忘、数据保护与公平性，
     面向大模型和视觉智能系统的安全、可信与高效应用。
   </p>
   <div class="hero-stats" aria-label="Profile highlights">
