@@ -1426,6 +1426,71 @@ header a {
   color: #ffffff;
 }
 
+.patent-list {
+  display: grid;
+  gap: 12px;
+}
+
+.patent-row {
+  align-items: center;
+  background: var(--panel-bg);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: 0 8px 22px rgba(20, 30, 50, 0.05);
+  display: grid;
+  gap: 16px;
+  grid-template-columns: minmax(0, 1fr) auto;
+  padding: 16px;
+}
+
+.patent-row-main h3 {
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 16px;
+  font-weight: 760;
+  line-height: 1.35;
+  margin: 0 0 8px;
+}
+
+.patent-row-main p {
+  color: var(--muted);
+  margin: 0;
+}
+
+.patent-row-side {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-align: right;
+}
+
+.patent-row-side span {
+  color: var(--accent-3);
+  font-family: "Ubuntu Mono", Consolas, monospace;
+  font-size: 13px;
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.patent-row-side a {
+  background: var(--soft-blue);
+  border: 1px solid rgba(49, 92, 150, 0.2);
+  border-radius: 999px;
+  color: var(--accent);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 12px;
+  font-weight: 760;
+  line-height: 1;
+  padding: 7px 10px;
+}
+
+.patent-row-side a:hover {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #ffffff;
+}
+
 .service-grid {
   display: grid;
   gap: 12px;
@@ -1680,6 +1745,7 @@ strong {
   .recruiting-panel,
   .service-window,
   .patent-card,
+  .patent-row,
   .service-card {
     box-shadow: none;
   }
@@ -1769,6 +1835,16 @@ strong {
   .patent-grid,
   .service-grid {
     grid-template-columns: 1fr;
+  }
+
+  .patent-row {
+    align-items: flex-start;
+    grid-template-columns: 1fr;
+  }
+
+  .patent-row-side {
+    align-items: flex-start;
+    text-align: left;
   }
 
   .research-cloud-panel img {
