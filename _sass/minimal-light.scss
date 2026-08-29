@@ -1698,6 +1698,15 @@ header a {
   margin: 18px 0 24px;
 }
 
+.personal-notes-heading {
+  color: var(--ink);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif;
+  font-size: 14px;
+  font-weight: 760;
+  grid-column: 1 / -1;
+  letter-spacing: 0;
+}
+
 .personal-note {
   background: linear-gradient(135deg, var(--panel-bg), var(--soft-green));
   border: 1px solid var(--line);

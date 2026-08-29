@@ -27,12 +27,13 @@ permalink: /zh.html
 欢迎通过 __Email 或微信（15822843520）__ 联系。
 
 <div class="personal-notes" aria-label="Personal notes">
+  <div class="personal-notes-heading">比较喜欢如下两句话</div>
   <article class="personal-note">
-    <span>座右铭</span>
+    <span>01</span>
     <strong>“勿以恶小而为之，勿以善小而不为。”</strong>
   </article>
   <article class="personal-note">
-    <span>喜好</span>
+    <span>02</span>
     <strong>“以铜为镜，可以正衣冠；以人为镜，可以明得失。”</strong>
   </article>
 </div>
