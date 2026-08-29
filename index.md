@@ -42,42 +42,6 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 - 2024.10-2025.04, CSC visiting scholar at NUS. 
 - 2021.02-2021.06, Internships in Institute of Automation, Chinese Academy of Sciences. w. Prof. [Wei Wang](http://cripac.ia.ac.cn/people/wwang/).
 
-<h2 id="teaching">Teaching</h2>
-
-<div class="teaching-list">
-  <article class="teaching-item">
-    <time>2026 Spring</time>
-    <strong>人工智能通识 I &amp; III</strong>
-  </article>
-  <article class="teaching-item">
-    <time>2026 Fall</time>
-    <strong>机器学习</strong>
-  </article>
-  <article class="teaching-item">
-    <time>2026 Fall</time>
-    <strong>计算机伦理</strong>
-  </article>
-</div>
-
-## Honors
-- Member of the China Graphics Society’s Technical Committee on Animation and Graphics Engineering
-- Member of the CSIG Technical Committee on Forensics and Security
-- Member of IEEE, CCF, CSIG
-- **Senior Member of the China Graphics Society**
-- 2024 **China Association for Science and Technology Youth Talent PhD Program (Computer Society)**
-- 2025 **Outstanding Graduate of Liaoning Province**
-- 2025 National PhD Scholarship (China)
-- 2025 Outstanding Graduate of Dalian University of Technology
-- 2024 Dalian University of Technology PhD Individual Award (Academic Excellence)
-- 2024 Excellent Postgraduate Student of Dalian University of Technology
-- 2023 Excellent Postgraduate Student of Dalian University of Technology
-
-## Research Interests
-
-<div class="research-cloud-panel">
-  <img src="{{ '/assets/img/research-cloud.jpg' | relative_url }}" alt="Research keyword cloud">
-</div>
-
 <h2 id="news-1st-author">News (1st author)</h2>
 
 <div class="venue-strip">
@@ -181,4 +145,39 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
   </article>
 </div>
 
+## Honors
+- Member of the China Graphics Society’s Technical Committee on Animation and Graphics Engineering
+- Member of the CSIG Technical Committee on Forensics and Security
+- Member of IEEE, CCF, CSIG
+- **Senior Member of the China Graphics Society**
+- 2024 **China Association for Science and Technology Youth Talent PhD Program (Computer Society)**
+- 2025 **Outstanding Graduate of Liaoning Province**
+- 2025 National PhD Scholarship (China)
+- 2025 Outstanding Graduate of Dalian University of Technology
+- 2024 Dalian University of Technology PhD Individual Award (Academic Excellence)
+- 2024 Excellent Postgraduate Student of Dalian University of Technology
+- 2023 Excellent Postgraduate Student of Dalian University of Technology
+
+## Research Interests
+
+<div class="research-cloud-panel">
+  <img src="{{ '/assets/img/research-cloud.jpg' | relative_url }}" alt="Research keyword cloud">
+</div>
+
+<h2 id="teaching">Teaching</h2>
+
+<div class="teaching-list">
+  <article class="teaching-item">
+    <time>2026 Spring</time>
+    <strong>人工智能通识 I &amp; III</strong>
+  </article>
+  <article class="teaching-item">
+    <time>2026 Fall</time>
+    <strong>机器学习</strong>
+  </article>
+  <article class="teaching-item">
+    <time>2026 Fall</time>
+    <strong>计算机伦理</strong>
+  </article>
+</div>
 

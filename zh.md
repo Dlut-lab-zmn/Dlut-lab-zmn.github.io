@@ -44,42 +44,6 @@ permalink: /zh.html
 - 2024.10-2025.04，国家公派新加坡国立大学访问博士生。
 - 2021.02-2021.06，中国科学院自动化研究所实习，合作导师为 [王伟教授](http://cripac.ia.ac.cn/people/wwang/)。
 
-<h2 id="teaching">教学</h2>
-
-<div class="teaching-list">
-  <article class="teaching-item">
-    <time>2026 春</time>
-    <strong>人工智能通识 I &amp; III</strong>
-  </article>
-  <article class="teaching-item">
-    <time>2026 秋</time>
-    <strong>机器学习</strong>
-  </article>
-  <article class="teaching-item">
-    <time>2026 秋</time>
-    <strong>计算机伦理</strong>
-  </article>
-</div>
-
-## 荣誉奖励
-- 中国图学学会动漫图学工程专委会委员
-- 中国图像图形学会数字媒体取证与安全专委会委员
-- IEEE、CCF、CSIG 会员
-- **中国图学学会高级会员**
-- 2024 **中国科协青年人才托举工程博士生专项计划（中国计算机学会）**
-- 2025 **辽宁省优秀毕业生**
-- 2025 博士研究生国家奖学金
-- 2025 大连理工大学优秀毕业生
-- 2024 大连理工大学博士研究生单项奖（学术卓越）
-- 2024 大连理工大学优秀研究生
-- 2023 大连理工大学优秀研究生
-
-## 研究方向
-
-<div class="research-cloud-panel">
-  <img src="{{ '/assets/img/research-cloud.jpg' | relative_url }}" alt="Research keyword cloud">
-</div>
-
 <h2 id="news-1st-author">近期动态（一作）</h2>
 
 <div class="venue-strip">
@@ -138,5 +102,41 @@ permalink: /zh.html
   <article class="service-row">
     <div class="service-main"><strong>TCSVT</strong><span>IEEE Transactions on Circuits and Systems for Video Technology</span></div>
     <div class="service-badges"><span>Journal</span><span>CCF B</span><span>SCI I</span></div>
+  </article>
+</div>
+
+## 荣誉奖励
+- 中国图学学会动漫图学工程专委会委员
+- 中国图像图形学会数字媒体取证与安全专委会委员
+- IEEE、CCF、CSIG 会员
+- **中国图学学会高级会员**
+- 2024 **中国科协青年人才托举工程博士生专项计划（中国计算机学会）**
+- 2025 **辽宁省优秀毕业生**
+- 2025 博士研究生国家奖学金
+- 2025 大连理工大学优秀毕业生
+- 2024 大连理工大学博士研究生单项奖（学术卓越）
+- 2024 大连理工大学优秀研究生
+- 2023 大连理工大学优秀研究生
+
+## 研究方向
+
+<div class="research-cloud-panel">
+  <img src="{{ '/assets/img/research-cloud.jpg' | relative_url }}" alt="Research keyword cloud">
+</div>
+
+<h2 id="teaching">教学</h2>
+
+<div class="teaching-list">
+  <article class="teaching-item">
+    <time>2026 春</time>
+    <strong>人工智能通识 I &amp; III</strong>
+  </article>
+  <article class="teaching-item">
+    <time>2026 秋</time>
+    <strong>机器学习</strong>
+  </article>
+  <article class="teaching-item">
+    <time>2026 秋</time>
+    <strong>计算机伦理</strong>
   </article>
 </div>
