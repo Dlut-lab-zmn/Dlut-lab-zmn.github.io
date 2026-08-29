@@ -80,6 +80,12 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
   <div class="news-item"><time>2019-12</time><p>One paper on SCI is accepted by <strong>IEEE Access</strong> (direct accept, before warning).</p></div>
 </div>
 
+## Research Interests
+
+<div class="research-cloud-panel">
+  <img src="{{ '/assets/img/research-cloud.jpg' | relative_url }}" alt="Research keyword cloud">
+</div>
+
 <h2 id="professional-service-selected">Professional Service.（Selected）</h2>
 
 <div class="service-window">
@@ -157,12 +163,6 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
 - 2024 Dalian University of Technology PhD Individual Award (Academic Excellence)
 - 2024 Excellent Postgraduate Student of Dalian University of Technology
 - 2023 Excellent Postgraduate Student of Dalian University of Technology
-
-## Research Interests
-
-<div class="research-cloud-panel">
-  <img src="{{ '/assets/img/research-cloud.jpg' | relative_url }}" alt="Research keyword cloud">
-</div>
 
 <h2 id="teaching">Teaching</h2>
 

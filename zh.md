@@ -72,6 +72,12 @@ permalink: /zh.html
   <div class="news-item"><time>2020-12</time><p>一篇对抗攻击方向论文被 <strong>IEEE TCSVT</strong> 接收。</p></div>
 </div>
 
+## 研究方向
+
+<div class="research-cloud-panel">
+  <img src="{{ '/assets/img/research-cloud.jpg' | relative_url }}" alt="Research keyword cloud">
+</div>
+
 <h2 id="professional-service-selected">学术服务（Selected）</h2>
 
 <div class="service-window">
@@ -149,12 +155,6 @@ permalink: /zh.html
 - 2024 大连理工大学博士研究生单项奖（学术卓越）
 - 2024 大连理工大学优秀研究生
 - 2023 大连理工大学优秀研究生
-
-## 研究方向
-
-<div class="research-cloud-panel">
-  <img src="{{ '/assets/img/research-cloud.jpg' | relative_url }}" alt="Research keyword cloud">
-</div>
 
 <h2 id="teaching">教学</h2>
 
