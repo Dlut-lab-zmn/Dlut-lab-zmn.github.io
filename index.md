@@ -169,8 +169,6 @@ He is also a visiting Ph.D. of Learning and Vision (LV) Lab at the National Univ
   </article>
 </div>
 
-{% include_relative _includes/projects.md %}
-
 ## Research Journey
 
 <div class="journey-note">
