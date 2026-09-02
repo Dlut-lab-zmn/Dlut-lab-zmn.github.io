@@ -58,6 +58,10 @@ permalink: /students.html
       <strong>表达能力</strong>
       <p>活儿干得漂亮是第一步，还能写清楚、讲明白。</p>
     </article>
+    <article>
+      <strong>精神面貌</strong>
+      <p>我比较欣赏衣着干净、精神利落的同学。它并不能保证科研一定利索，但常常意味着你愿意认真对待自己、他人和手里的事。</p>
+    </article>
   </div>
 
   <div class="recruiting-panel">
