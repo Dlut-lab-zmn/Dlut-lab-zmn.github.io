@@ -15,7 +15,7 @@ permalink: /zh.html
     <div><strong>15 篇一作论文</strong><span>硕博期间</span></div>
     <div><strong>5 项专利</strong><span>硕博期间</span></div>
     <div><strong>CVPR / ICCV / ECCV</strong><span>顶级会议方向</span></div>
-    <div><strong>TIFS*2 中国科学-信息科学*2 TCSVT*2</strong><span>高水平期刊方向</span></div>
+    <div><strong>TIFS / 中国科学 等</strong><span>高水平期刊方向</span></div>
   </div>
 </div>
 
@@ -51,9 +51,9 @@ permalink: /zh.html
   <strong>CVPR</strong>
   <strong>ICCV</strong>
   <strong>ECCV</strong>
-  <strong>TIFS</strong>
-  <strong>中国科学-信息科学</strong>
-  <strong>TCSVT</strong>
+  <strong>TIFS*2</strong>
+  <strong>中国科学-信息科学*2</strong>
+  <strong>TCSVT*2</strong>
 </div>
 
 <div class="news-timeline">
