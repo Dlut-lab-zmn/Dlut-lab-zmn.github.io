@@ -13,7 +13,7 @@ lang: en
     <div><strong>15 1st-author Papers</strong><span>During Master &amp; Ph.D.</span></div>
     <div><strong>5 Patents</strong><span>During Master &amp; Ph.D.</span></div>
     <div><strong>CVPR / ICCV / ECCV</strong><span>Top conference track</span></div>
-    <div><strong>TIFS / 中国科学 等</strong><span>Top journal track</span></div>
+    <div><strong>TIFS*2 中国科学-信息科学*2 TCSVT*2</strong><span>Top journal track</span></div>
   </div>
 </div>
 
